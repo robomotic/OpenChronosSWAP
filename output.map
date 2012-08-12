@@ -1,0 +1,2019 @@
+Archive member included because of file (symbol)
+
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+                              driver/display.o (__udivsi3)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+                              logic/altitude.o (__divsi3)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+                              logic/acceleration.o (__fixunssfsi)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+                              logic/acceleration.o (__addsf3)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+                              logic/acceleration.o (__mulsf3)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+                              driver/vti_ps.o (__divsf3)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+                              driver/vti_ps.o (__gtsf2)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+                              driver/vti_ps.o (__ltsf2)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+                              driver/vti_ps.o (__floatsisf)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o) (__fixsfsi)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+                              logic/acceleration.o (__floatunsisf)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o) (__clz_tab)
+/usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+                              logic/date.o (memcpy)
+/usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+                              swap/mrfi/mrfi.o (memset)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o (_reset_vector__)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__watchdog_support)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__init_stack)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__low_level_init.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__low_level_init)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__do_copy_data)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__do_clear_bss)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__stop_progExec__.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (__stop_progExec__)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o) (_endless_loop__)
+/usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+                              /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o (_unexpected_)
+
+Allocating common symbols
+Common symbol       size              file
+
+sStopwatch          0x16              logic/stopwatch.o
+dtPasswd            0x1               swap/swapbrsr.o
+sBuzzer             0x8               driver/buzzer.o
+swSecuNonce         0x1               swap/swapbrsr.o
+p                   0x44              driver/vti_ps.o
+fptr_lcd_function_line2
+                    0x2               ezchronos.o
+sBatt               0x8               logic/battery.o
+sTime               0xe               logic/clock.o
+itoa_str            0x8               driver/display.o
+swNetworkId         0x2               swap/swapbrsr.o
+sys                 0x2               ezchronos.o
+ps_ok               0x1               driver/vti_ps.o
+sAlarm              0x6               logic/alarm.o
+sTemp               0x6               logic/temperature.o
+rf_frequoffset      0x1               ezchronos.o
+swTxPeriod          0x1               swap/swapbrsr.o
+display             0x2               driver/display.o
+button              0x2               driver/ports.o
+message             0x2               ezchronos.o
+swSecuOption        0x1               swap/swapbrsr.o
+swSystemState       0x1               swap/swapbrsr.o
+adc12_data_ready    0x1               driver/adc12.o
+request             0x2               ezchronos.o
+adc12_result        0x2               driver/adc12.o
+swDeviceAddress     0x1               swap/swapbrsr.o
+sDate               0x6               logic/date.o
+fptr_lcd_function_line1
+                    0x2               ezchronos.o
+swBrowserFlag       0x2               logic/menu.o
+sButton             0x6               driver/ports.o
+fptr_Timer0_A3_function
+                    0x2               driver/timer.o
+as_ok               0x1               driver/vti_as.o
+swFreqChannel       0x1               swap/swapbrsr.o
+sAlt                0xe               logic/altitude.o
+sAccel              0xa               logic/acceleration.o
+sTimer              0x4               driver/timer.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sfr              0x0000000000000000 0x0000000000000010
+peripheral_8bit  0x0000000000000010 0x00000000000000f0
+peripheral_16bit 0x0000000000000100 0x0000000000000100
+bsl              0x0000000000001000 0x0000000000000800
+infomem          0x0000000000001800 0x0000000000000200
+infod            0x0000000000001800 0x0000000000000080
+infoc            0x0000000000001880 0x0000000000000080
+infob            0x0000000000001900 0x0000000000000080
+infoa            0x0000000000001980 0x0000000000000080
+ram              0x0000000000001c00 0x0000000000000ffe xw
+rom              0x0000000000008000 0x0000000000007f80 xr
+vectors          0x000000000000ff80 0x0000000000000080
+ram2             0x0000000000000000 0x0000000000000000 xw
+ram_mirror       0x0000000000000000 0x0000000000000000 xw
+usbram           0x0000000000000000 0x0000000000000000 xw
+far_rom          0x0000000000000000 0x0000000000000000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+LOAD logic/acceleration.o
+LOAD logic/alarm.o
+LOAD logic/altitude.o
+LOAD logic/battery.o
+LOAD logic/clock.o
+LOAD logic/date.o
+LOAD logic/menu.o
+LOAD logic/stopwatch.o
+LOAD logic/temperature.o
+LOAD logic/test.o
+LOAD logic/user.o
+LOAD logic/phase_clock.o
+LOAD logic/eggtimer.o
+LOAD logic/prout.o
+LOAD logic/vario.o
+LOAD logic/sidereal.o
+LOAD logic/strength.o
+LOAD logic/sequence.o
+LOAD logic/gps.o
+LOAD logic/dst.o
+LOAD swap/bsp/bsp.o
+LOAD swap/mrfi/mrfi.o
+LOAD swap/swapbrsr.o
+LOAD swap/swap.o
+LOAD swap/register.o
+LOAD swap/regtable.o
+LOAD swap/params.o
+LOAD swap/periodic.o
+LOAD driver/adc12.o
+LOAD driver/buzzer.o
+LOAD driver/display.o
+LOAD driver/display1.o
+LOAD driver/pmm.o
+LOAD driver/ports.o
+LOAD driver/radio.o
+LOAD driver/rf1a.o
+LOAD driver/timer.o
+LOAD driver/vti_as.o
+LOAD driver/vti_ps.o
+LOAD driver/dsp.o
+LOAD driver/infomem.o
+LOAD ezchronos.o
+LOAD even_in_range.o
+LOAD /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a
+LOAD /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a
+LOAD /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a
+LOAD /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a
+                0x0000000000000080                PROVIDE (__info_segment_size, 0x80)
+                0x0000000000001800                PROVIDE (__infod, 0x1800)
+                0x0000000000001880                PROVIDE (__infoc, 0x1880)
+                0x0000000000001900                PROVIDE (__infob, 0x1900)
+                0x0000000000001980                PROVIDE (__infoa, 0x1980)
+                0x0000000000000700                __ADC12CTL0_L = 0x700
+                0x0000000000000701                __ADC12CTL0_H = 0x701
+                0x0000000000000700                __ADC12CTL0 = 0x700
+                0x0000000000000702                __ADC12CTL1_L = 0x702
+                0x0000000000000703                __ADC12CTL1_H = 0x703
+                0x0000000000000702                __ADC12CTL1 = 0x702
+                0x0000000000000704                __ADC12CTL2_L = 0x704
+                0x0000000000000705                __ADC12CTL2_H = 0x705
+                0x0000000000000704                __ADC12CTL2 = 0x704
+                0x000000000000070a                __ADC12IFG_L = 0x70a
+                0x000000000000070b                __ADC12IFG_H = 0x70b
+                0x000000000000070a                __ADC12IFG = 0x70a
+                0x000000000000070c                __ADC12IE_L = 0x70c
+                0x000000000000070d                __ADC12IE_H = 0x70d
+                0x000000000000070c                __ADC12IE = 0x70c
+                0x000000000000070e                __ADC12IV_L = 0x70e
+                0x000000000000070f                __ADC12IV_H = 0x70f
+                0x000000000000070e                __ADC12IV = 0x70e
+                0x0000000000000720                __ADC12MEM0_L = 0x720
+                0x0000000000000721                __ADC12MEM0_H = 0x721
+                0x0000000000000720                __ADC12MEM0 = 0x720
+                0x0000000000000722                __ADC12MEM1_L = 0x722
+                0x0000000000000723                __ADC12MEM1_H = 0x723
+                0x0000000000000722                __ADC12MEM1 = 0x722
+                0x0000000000000724                __ADC12MEM2_L = 0x724
+                0x0000000000000725                __ADC12MEM2_H = 0x725
+                0x0000000000000724                __ADC12MEM2 = 0x724
+                0x0000000000000726                __ADC12MEM3_L = 0x726
+                0x0000000000000727                __ADC12MEM3_H = 0x727
+                0x0000000000000726                __ADC12MEM3 = 0x726
+                0x0000000000000728                __ADC12MEM4_L = 0x728
+                0x0000000000000729                __ADC12MEM4_H = 0x729
+                0x0000000000000728                __ADC12MEM4 = 0x728
+                0x000000000000072a                __ADC12MEM5_L = 0x72a
+                0x000000000000072b                __ADC12MEM5_H = 0x72b
+                0x000000000000072a                __ADC12MEM5 = 0x72a
+                0x000000000000072c                __ADC12MEM6_L = 0x72c
+                0x000000000000072d                __ADC12MEM6_H = 0x72d
+                0x000000000000072c                __ADC12MEM6 = 0x72c
+                0x000000000000072e                __ADC12MEM7_L = 0x72e
+                0x000000000000072f                __ADC12MEM7_H = 0x72f
+                0x000000000000072e                __ADC12MEM7 = 0x72e
+                0x0000000000000730                __ADC12MEM8_L = 0x730
+                0x0000000000000731                __ADC12MEM8_H = 0x731
+                0x0000000000000730                __ADC12MEM8 = 0x730
+                0x0000000000000732                __ADC12MEM9_L = 0x732
+                0x0000000000000733                __ADC12MEM9_H = 0x733
+                0x0000000000000732                __ADC12MEM9 = 0x732
+                0x0000000000000734                __ADC12MEM10_L = 0x734
+                0x0000000000000735                __ADC12MEM10_H = 0x735
+                0x0000000000000734                __ADC12MEM10 = 0x734
+                0x0000000000000736                __ADC12MEM11_L = 0x736
+                0x0000000000000737                __ADC12MEM11_H = 0x737
+                0x0000000000000736                __ADC12MEM11 = 0x736
+                0x0000000000000738                __ADC12MEM12_L = 0x738
+                0x0000000000000739                __ADC12MEM12_H = 0x739
+                0x0000000000000738                __ADC12MEM12 = 0x738
+                0x000000000000073a                __ADC12MEM13_L = 0x73a
+                0x000000000000073b                __ADC12MEM13_H = 0x73b
+                0x000000000000073a                __ADC12MEM13 = 0x73a
+                0x000000000000073c                __ADC12MEM14_L = 0x73c
+                0x000000000000073d                __ADC12MEM14_H = 0x73d
+                0x000000000000073c                __ADC12MEM14 = 0x73c
+                0x000000000000073e                __ADC12MEM15_L = 0x73e
+                0x000000000000073f                __ADC12MEM15_H = 0x73f
+                0x000000000000073e                __ADC12MEM15 = 0x73e
+                0x0000000000000710                __ADC12MCTL0 = 0x710
+                0x0000000000000711                __ADC12MCTL1 = 0x711
+                0x0000000000000712                __ADC12MCTL2 = 0x712
+                0x0000000000000713                __ADC12MCTL3 = 0x713
+                0x0000000000000714                __ADC12MCTL4 = 0x714
+                0x0000000000000715                __ADC12MCTL5 = 0x715
+                0x0000000000000716                __ADC12MCTL6 = 0x716
+                0x0000000000000717                __ADC12MCTL7 = 0x717
+                0x0000000000000718                __ADC12MCTL8 = 0x718
+                0x0000000000000719                __ADC12MCTL9 = 0x719
+                0x000000000000071a                __ADC12MCTL10 = 0x71a
+                0x000000000000071b                __ADC12MCTL11 = 0x71b
+                0x000000000000071c                __ADC12MCTL12 = 0x71c
+                0x000000000000071d                __ADC12MCTL13 = 0x71d
+                0x000000000000071e                __ADC12MCTL14 = 0x71e
+                0x000000000000071f                __ADC12MCTL15 = 0x71f
+                0x00000000000009c0                __AESACTL0_L = 0x9c0
+                0x00000000000009c1                __AESACTL0_H = 0x9c1
+                0x00000000000009c0                __AESACTL0 = 0x9c0
+                0x00000000000009c4                __AESASTAT_L = 0x9c4
+                0x00000000000009c5                __AESASTAT_H = 0x9c5
+                0x00000000000009c4                __AESASTAT = 0x9c4
+                0x00000000000009c6                __AESAKEY_L = 0x9c6
+                0x00000000000009c7                __AESAKEY_H = 0x9c7
+                0x00000000000009c6                __AESAKEY = 0x9c6
+                0x00000000000009c8                __AESADIN_L = 0x9c8
+                0x00000000000009c9                __AESADIN_H = 0x9c9
+                0x00000000000009c8                __AESADIN = 0x9c8
+                0x00000000000009ca                __AESADOUT_L = 0x9ca
+                0x00000000000009cb                __AESADOUT_H = 0x9cb
+                0x00000000000009ca                __AESADOUT = 0x9ca
+                0x00000000000008c0                __CBCTL0_L = 0x8c0
+                0x00000000000008c1                __CBCTL0_H = 0x8c1
+                0x00000000000008c0                __CBCTL0 = 0x8c0
+                0x00000000000008c2                __CBCTL1_L = 0x8c2
+                0x00000000000008c3                __CBCTL1_H = 0x8c3
+                0x00000000000008c2                __CBCTL1 = 0x8c2
+                0x00000000000008c4                __CBCTL2_L = 0x8c4
+                0x00000000000008c5                __CBCTL2_H = 0x8c5
+                0x00000000000008c4                __CBCTL2 = 0x8c4
+                0x00000000000008c6                __CBCTL3_L = 0x8c6
+                0x00000000000008c7                __CBCTL3_H = 0x8c7
+                0x00000000000008c6                __CBCTL3 = 0x8c6
+                0x00000000000008cc                __CBINT_L = 0x8cc
+                0x00000000000008cd                __CBINT_H = 0x8cd
+                0x00000000000008cc                __CBINT = 0x8cc
+                0x00000000000008ce                __CBIV = 0x8ce
+                0x0000000000000f00                __RF1AIFCTL0_L = 0xf00
+                0x0000000000000f01                __RF1AIFCTL0_H = 0xf01
+                0x0000000000000f00                __RF1AIFCTL0 = 0xf00
+                0x0000000000000f02                __RF1AIFCTL1_L = 0xf02
+                0x0000000000000f03                __RF1AIFCTL1_H = 0xf03
+                0x0000000000000f02                __RF1AIFCTL1 = 0xf02
+                0x0000000000000f04                __RF1AIFCTL2_L = 0xf04
+                0x0000000000000f05                __RF1AIFCTL2_H = 0xf05
+                0x0000000000000f04                __RF1AIFCTL2 = 0xf04
+                0x0000000000000f06                __RF1AIFERR_L = 0xf06
+                0x0000000000000f07                __RF1AIFERR_H = 0xf07
+                0x0000000000000f06                __RF1AIFERR = 0xf06
+                0x0000000000000f0c                __RF1AIFERRV_L = 0xf0c
+                0x0000000000000f0d                __RF1AIFERRV_H = 0xf0d
+                0x0000000000000f0c                __RF1AIFERRV = 0xf0c
+                0x0000000000000f0e                __RF1AIFIV_L = 0xf0e
+                0x0000000000000f0f                __RF1AIFIV_H = 0xf0f
+                0x0000000000000f0e                __RF1AIFIV = 0xf0e
+                0x0000000000000f10                __RF1AINSTRW_L = 0xf10
+                0x0000000000000f11                __RF1AINSTRW_H = 0xf11
+                0x0000000000000f10                __RF1AINSTRW = 0xf10
+                0x0000000000000f12                __RF1AINSTR1W_L = 0xf12
+                0x0000000000000f13                __RF1AINSTR1W_H = 0xf13
+                0x0000000000000f12                __RF1AINSTR1W = 0xf12
+                0x0000000000000f14                __RF1AINSTR2W_L = 0xf14
+                0x0000000000000f15                __RF1AINSTR2W_H = 0xf15
+                0x0000000000000f14                __RF1AINSTR2W = 0xf14
+                0x0000000000000f16                __RF1ADINW_L = 0xf16
+                0x0000000000000f17                __RF1ADINW_H = 0xf17
+                0x0000000000000f16                __RF1ADINW = 0xf16
+                0x0000000000000f20                __RF1ASTAT0W_L = 0xf20
+                0x0000000000000f21                __RF1ASTAT0W_H = 0xf21
+                0x0000000000000f20                __RF1ASTAT0W = 0xf20
+                0x0000000000000f22                __RF1ASTAT1W_L = 0xf22
+                0x0000000000000f23                __RF1ASTAT1W_H = 0xf23
+                0x0000000000000f22                __RF1ASTAT1W = 0xf22
+                0x0000000000000f24                __RF1ASTAT2W_L = 0xf24
+                0x0000000000000f25                __RF1ASTAT2W_H = 0xf25
+                0x0000000000000f24                __RF1ASTAT2W = 0xf24
+                0x0000000000000f28                __RF1ADOUT0W_L = 0xf28
+                0x0000000000000f29                __RF1ADOUT0W_H = 0xf29
+                0x0000000000000f28                __RF1ADOUT0W = 0xf28
+                0x0000000000000f2a                __RF1ADOUT1W_L = 0xf2a
+                0x0000000000000f2b                __RF1ADOUT1W_H = 0xf2b
+                0x0000000000000f2a                __RF1ADOUT1W = 0xf2a
+                0x0000000000000f2c                __RF1ADOUT2W_L = 0xf2c
+                0x0000000000000f2d                __RF1ADOUT2W_H = 0xf2d
+                0x0000000000000f2c                __RF1ADOUT2W = 0xf2c
+                0x0000000000000f30                __RF1AIN_L = 0xf30
+                0x0000000000000f31                __RF1AIN_H = 0xf31
+                0x0000000000000f30                __RF1AIN = 0xf30
+                0x0000000000000f32                __RF1AIFG_L = 0xf32
+                0x0000000000000f33                __RF1AIFG_H = 0xf33
+                0x0000000000000f32                __RF1AIFG = 0xf32
+                0x0000000000000f34                __RF1AIES_L = 0xf34
+                0x0000000000000f35                __RF1AIES_H = 0xf35
+                0x0000000000000f34                __RF1AIES = 0xf34
+                0x0000000000000f36                __RF1AIE_L = 0xf36
+                0x0000000000000f37                __RF1AIE_H = 0xf37
+                0x0000000000000f36                __RF1AIE = 0xf36
+                0x0000000000000f38                __RF1AIV_L = 0xf38
+                0x0000000000000f39                __RF1AIV_H = 0xf39
+                0x0000000000000f38                __RF1AIV = 0xf38
+                0x0000000000000f3c                __RF1ARXFIFO_L = 0xf3c
+                0x0000000000000f3d                __RF1ARXFIFO_H = 0xf3d
+                0x0000000000000f3c                __RF1ARXFIFO = 0xf3c
+                0x0000000000000f3e                __RF1ATXFIFO_L = 0xf3e
+                0x0000000000000f3f                __RF1ATXFIFO_H = 0xf3f
+                0x0000000000000f3e                __RF1ATXFIFO = 0xf3e
+                0x0000000000000150                __CRCDI_L = 0x150
+                0x0000000000000151                __CRCDI_H = 0x151
+                0x0000000000000150                __CRCDI = 0x150
+                0x0000000000000152                __CRCDIRB_L = 0x152
+                0x0000000000000153                __CRCDIRB_H = 0x153
+                0x0000000000000152                __CRCDIRB = 0x152
+                0x0000000000000154                __CRCINIRES_L = 0x154
+                0x0000000000000155                __CRCINIRES_H = 0x155
+                0x0000000000000154                __CRCINIRES = 0x154
+                0x0000000000000156                __CRCRESR_L = 0x156
+                0x0000000000000157                __CRCRESR_H = 0x157
+                0x0000000000000156                __CRCRESR = 0x156
+                0x0000000000000500                __DMACTL0_L = 0x500
+                0x0000000000000501                __DMACTL0_H = 0x501
+                0x0000000000000500                __DMACTL0 = 0x500
+                0x0000000000000502                __DMACTL1_L = 0x502
+                0x0000000000000503                __DMACTL1_H = 0x503
+                0x0000000000000502                __DMACTL1 = 0x502
+                0x0000000000000504                __DMACTL2_L = 0x504
+                0x0000000000000505                __DMACTL2_H = 0x505
+                0x0000000000000504                __DMACTL2 = 0x504
+                0x0000000000000506                __DMACTL3_L = 0x506
+                0x0000000000000507                __DMACTL3_H = 0x507
+                0x0000000000000506                __DMACTL3 = 0x506
+                0x0000000000000508                __DMACTL4_L = 0x508
+                0x0000000000000509                __DMACTL4_H = 0x509
+                0x0000000000000508                __DMACTL4 = 0x508
+                0x000000000000050e                __DMAIV_L = 0x50e
+                0x000000000000050f                __DMAIV_H = 0x50f
+                0x000000000000050e                __DMAIV = 0x50e
+                0x0000000000000510                __DMA0CTL_L = 0x510
+                0x0000000000000511                __DMA0CTL_H = 0x511
+                0x0000000000000510                __DMA0CTL = 0x510
+                0x0000000000000512                __DMA0SA = 0x512
+                0x0000000000000516                __DMA0DA = 0x516
+                0x000000000000051a                __DMA0SZ = 0x51a
+                0x0000000000000520                __DMA1CTL_L = 0x520
+                0x0000000000000521                __DMA1CTL_H = 0x521
+                0x0000000000000520                __DMA1CTL = 0x520
+                0x0000000000000522                __DMA1SA = 0x522
+                0x0000000000000526                __DMA1DA = 0x526
+                0x000000000000052a                __DMA1SZ = 0x52a
+                0x0000000000000530                __DMA2CTL_L = 0x530
+                0x0000000000000531                __DMA2CTL_H = 0x531
+                0x0000000000000530                __DMA2CTL = 0x530
+                0x0000000000000532                __DMA2SA = 0x532
+                0x0000000000000536                __DMA2DA = 0x536
+                0x000000000000053a                __DMA2SZ = 0x53a
+                0x0000000000000140                __FCTL1_L = 0x140
+                0x0000000000000141                __FCTL1_H = 0x141
+                0x0000000000000140                __FCTL1 = 0x140
+                0x0000000000000144                __FCTL3_L = 0x144
+                0x0000000000000145                __FCTL3_H = 0x145
+                0x0000000000000144                __FCTL3 = 0x144
+                0x0000000000000146                __FCTL4_L = 0x146
+                0x0000000000000147                __FCTL4_H = 0x147
+                0x0000000000000146                __FCTL4 = 0x146
+                0x0000000000000a00                __LCDBCTL0_L = 0xa00
+                0x0000000000000a01                __LCDBCTL0_H = 0xa01
+                0x0000000000000a00                __LCDBCTL0 = 0xa00
+                0x0000000000000a02                __LCDBCTL1_L = 0xa02
+                0x0000000000000a03                __LCDBCTL1_H = 0xa03
+                0x0000000000000a02                __LCDBCTL1 = 0xa02
+                0x0000000000000a04                __LCDBBLKCTL_L = 0xa04
+                0x0000000000000a05                __LCDBBLKCTL_H = 0xa05
+                0x0000000000000a04                __LCDBBLKCTL = 0xa04
+                0x0000000000000a06                __LCDBMEMCTL_L = 0xa06
+                0x0000000000000a07                __LCDBMEMCTL_H = 0xa07
+                0x0000000000000a06                __LCDBMEMCTL = 0xa06
+                0x0000000000000a08                __LCDBVCTL_L = 0xa08
+                0x0000000000000a09                __LCDBVCTL_H = 0xa09
+                0x0000000000000a08                __LCDBVCTL = 0xa08
+                0x0000000000000a0a                __LCDBPCTL0_L = 0xa0a
+                0x0000000000000a0b                __LCDBPCTL0_H = 0xa0b
+                0x0000000000000a0a                __LCDBPCTL0 = 0xa0a
+                0x0000000000000a0c                __LCDBPCTL1_L = 0xa0c
+                0x0000000000000a0d                __LCDBPCTL1_H = 0xa0d
+                0x0000000000000a0c                __LCDBPCTL1 = 0xa0c
+                0x0000000000000a0e                __LCDBPCTL2_L = 0xa0e
+                0x0000000000000a0f                __LCDBPCTL2_H = 0xa0f
+                0x0000000000000a0e                __LCDBPCTL2 = 0xa0e
+                0x0000000000000a10                __LCDBPCTL3_L = 0xa10
+                0x0000000000000a11                __LCDBPCTL3_H = 0xa11
+                0x0000000000000a10                __LCDBPCTL3 = 0xa10
+                0x0000000000000a12                __LCDBCPCTL_L = 0xa12
+                0x0000000000000a13                __LCDBCPCTL_H = 0xa13
+                0x0000000000000a12                __LCDBCPCTL = 0xa12
+                0x0000000000000a1e                __LCDBIV = 0xa1e
+                0x0000000000000a20                __LCDM1 = 0xa20
+                0x0000000000000a21                __LCDM2 = 0xa21
+                0x0000000000000a22                __LCDM3 = 0xa22
+                0x0000000000000a23                __LCDM4 = 0xa23
+                0x0000000000000a24                __LCDM5 = 0xa24
+                0x0000000000000a25                __LCDM6 = 0xa25
+                0x0000000000000a26                __LCDM7 = 0xa26
+                0x0000000000000a27                __LCDM8 = 0xa27
+                0x0000000000000a28                __LCDM9 = 0xa28
+                0x0000000000000a29                __LCDM10 = 0xa29
+                0x0000000000000a2a                __LCDM11 = 0xa2a
+                0x0000000000000a2b                __LCDM12 = 0xa2b
+                0x0000000000000a2c                __LCDM13 = 0xa2c
+                0x0000000000000a2d                __LCDM14 = 0xa2d
+                0x0000000000000a2e                __LCDM15 = 0xa2e
+                0x0000000000000a2f                __LCDM16 = 0xa2f
+                0x0000000000000a30                __LCDM17 = 0xa30
+                0x0000000000000a31                __LCDM18 = 0xa31
+                0x0000000000000a32                __LCDM19 = 0xa32
+                0x0000000000000a33                __LCDM20 = 0xa33
+                0x0000000000000a34                __LCDM21 = 0xa34
+                0x0000000000000a35                __LCDM22 = 0xa35
+                0x0000000000000a36                __LCDM23 = 0xa36
+                0x0000000000000a37                __LCDM24 = 0xa37
+                0x0000000000000a40                __LCDBM1 = 0xa40
+                0x0000000000000a41                __LCDBM2 = 0xa41
+                0x0000000000000a42                __LCDBM3 = 0xa42
+                0x0000000000000a43                __LCDBM4 = 0xa43
+                0x0000000000000a44                __LCDBM5 = 0xa44
+                0x0000000000000a45                __LCDBM6 = 0xa45
+                0x0000000000000a46                __LCDBM7 = 0xa46
+                0x0000000000000a47                __LCDBM8 = 0xa47
+                0x0000000000000a48                __LCDBM9 = 0xa48
+                0x0000000000000a49                __LCDBM10 = 0xa49
+                0x0000000000000a4a                __LCDBM11 = 0xa4a
+                0x0000000000000a4b                __LCDBM12 = 0xa4b
+                0x0000000000000a4c                __LCDBM13 = 0xa4c
+                0x0000000000000a4d                __LCDBM14 = 0xa4d
+                0x0000000000000a4e                __LCDBM15 = 0xa4e
+                0x0000000000000a4f                __LCDBM16 = 0xa4f
+                0x0000000000000a50                __LCDBM17 = 0xa50
+                0x0000000000000a51                __LCDBM18 = 0xa51
+                0x0000000000000a52                __LCDBM19 = 0xa52
+                0x0000000000000a53                __LCDBM20 = 0xa53
+                0x0000000000000a54                __LCDBM21 = 0xa54
+                0x0000000000000a55                __LCDBM22 = 0xa55
+                0x0000000000000a56                __LCDBM23 = 0xa56
+                0x0000000000000a57                __LCDBM24 = 0xa57
+                0x00000000000004c0                __MPY_L = 0x4c0
+                0x00000000000004c1                __MPY_H = 0x4c1
+                0x00000000000004c0                __MPY = 0x4c0
+                0x00000000000004c2                __MPYS_L = 0x4c2
+                0x00000000000004c3                __MPYS_H = 0x4c3
+                0x00000000000004c2                __MPYS = 0x4c2
+                0x00000000000004c4                __MAC_L = 0x4c4
+                0x00000000000004c5                __MAC_H = 0x4c5
+                0x00000000000004c4                __MAC = 0x4c4
+                0x00000000000004c6                __MACS_L = 0x4c6
+                0x00000000000004c7                __MACS_H = 0x4c7
+                0x00000000000004c6                __MACS = 0x4c6
+                0x00000000000004c8                __OP2_L = 0x4c8
+                0x00000000000004c9                __OP2_H = 0x4c9
+                0x00000000000004c8                __OP2 = 0x4c8
+                0x00000000000004ca                __RESLO_L = 0x4ca
+                0x00000000000004cb                __RESLO_H = 0x4cb
+                0x00000000000004ca                __RESLO = 0x4ca
+                0x00000000000004cc                __RESHI_L = 0x4cc
+                0x00000000000004cd                __RESHI_H = 0x4cd
+                0x00000000000004cc                __RESHI = 0x4cc
+                0x00000000000004ce                __SUMEXT_L = 0x4ce
+                0x00000000000004cf                __SUMEXT_H = 0x4cf
+                0x00000000000004ce                __SUMEXT = 0x4ce
+                0x00000000000004d0                __MPY32L_L = 0x4d0
+                0x00000000000004d1                __MPY32L_H = 0x4d1
+                0x00000000000004d0                __MPY32L = 0x4d0
+                0x00000000000004d2                __MPY32H_L = 0x4d2
+                0x00000000000004d3                __MPY32H_H = 0x4d3
+                0x00000000000004d2                __MPY32H = 0x4d2
+                0x00000000000004d4                __MPYS32L_L = 0x4d4
+                0x00000000000004d5                __MPYS32L_H = 0x4d5
+                0x00000000000004d4                __MPYS32L = 0x4d4
+                0x00000000000004d6                __MPYS32H_L = 0x4d6
+                0x00000000000004d7                __MPYS32H_H = 0x4d7
+                0x00000000000004d6                __MPYS32H = 0x4d6
+                0x00000000000004d8                __MAC32L_L = 0x4d8
+                0x00000000000004d9                __MAC32L_H = 0x4d9
+                0x00000000000004d8                __MAC32L = 0x4d8
+                0x00000000000004da                __MAC32H_L = 0x4da
+                0x00000000000004db                __MAC32H_H = 0x4db
+                0x00000000000004da                __MAC32H = 0x4da
+                0x00000000000004dc                __MACS32L_L = 0x4dc
+                0x00000000000004dd                __MACS32L_H = 0x4dd
+                0x00000000000004dc                __MACS32L = 0x4dc
+                0x00000000000004de                __MACS32H_L = 0x4de
+                0x00000000000004df                __MACS32H_H = 0x4df
+                0x00000000000004de                __MACS32H = 0x4de
+                0x00000000000004e0                __OP2L_L = 0x4e0
+                0x00000000000004e1                __OP2L_H = 0x4e1
+                0x00000000000004e0                __OP2L = 0x4e0
+                0x00000000000004e2                __OP2H_L = 0x4e2
+                0x00000000000004e3                __OP2H_H = 0x4e3
+                0x00000000000004e2                __OP2H = 0x4e2
+                0x00000000000004e4                __RES0_L = 0x4e4
+                0x00000000000004e5                __RES0_H = 0x4e5
+                0x00000000000004e4                __RES0 = 0x4e4
+                0x00000000000004e6                __RES1_L = 0x4e6
+                0x00000000000004e7                __RES1_H = 0x4e7
+                0x00000000000004e6                __RES1 = 0x4e6
+                0x00000000000004e8                __RES2_L = 0x4e8
+                0x00000000000004e9                __RES2_H = 0x4e9
+                0x00000000000004e8                __RES2 = 0x4e8
+                0x00000000000004ea                __RES3_L = 0x4ea
+                0x00000000000004eb                __RES3_H = 0x4eb
+                0x00000000000004ea                __RES3 = 0x4ea
+                0x00000000000004ec                __MPY32CTL0_L = 0x4ec
+                0x00000000000004ed                __MPY32CTL0_H = 0x4ed
+                0x00000000000004ec                __MPY32CTL0 = 0x4ec
+                0x0000000000000200                __PAIN_L = 0x200
+                0x0000000000000201                __PAIN_H = 0x201
+                0x0000000000000200                __PAIN = 0x200
+                0x0000000000000202                __PAOUT_L = 0x202
+                0x0000000000000203                __PAOUT_H = 0x203
+                0x0000000000000202                __PAOUT = 0x202
+                0x0000000000000204                __PADIR_L = 0x204
+                0x0000000000000205                __PADIR_H = 0x205
+                0x0000000000000204                __PADIR = 0x204
+                0x0000000000000206                __PAREN_L = 0x206
+                0x0000000000000207                __PAREN_H = 0x207
+                0x0000000000000206                __PAREN = 0x206
+                0x0000000000000208                __PADS_L = 0x208
+                0x0000000000000209                __PADS_H = 0x209
+                0x0000000000000208                __PADS = 0x208
+                0x000000000000020a                __PASEL_L = 0x20a
+                0x000000000000020b                __PASEL_H = 0x20b
+                0x000000000000020a                __PASEL = 0x20a
+                0x0000000000000218                __PAIES_L = 0x218
+                0x0000000000000219                __PAIES_H = 0x219
+                0x0000000000000218                __PAIES = 0x218
+                0x000000000000021a                __PAIE_L = 0x21a
+                0x000000000000021b                __PAIE_H = 0x21b
+                0x000000000000021a                __PAIE = 0x21a
+                0x000000000000021c                __PAIFG_L = 0x21c
+                0x000000000000021d                __PAIFG_H = 0x21d
+                0x000000000000021c                __PAIFG = 0x21c
+                0x000000000000020e                __P1IV = 0x20e
+                0x000000000000021e                __P2IV = 0x21e
+                0x0000000000000220                __PBIN_L = 0x220
+                0x0000000000000221                __PBIN_H = 0x221
+                0x0000000000000220                __PBIN = 0x220
+                0x0000000000000222                __PBOUT_L = 0x222
+                0x0000000000000223                __PBOUT_H = 0x223
+                0x0000000000000222                __PBOUT = 0x222
+                0x0000000000000224                __PBDIR_L = 0x224
+                0x0000000000000225                __PBDIR_H = 0x225
+                0x0000000000000224                __PBDIR = 0x224
+                0x0000000000000226                __PBREN_L = 0x226
+                0x0000000000000227                __PBREN_H = 0x227
+                0x0000000000000226                __PBREN = 0x226
+                0x0000000000000228                __PBDS_L = 0x228
+                0x0000000000000229                __PBDS_H = 0x229
+                0x0000000000000228                __PBDS = 0x228
+                0x000000000000022a                __PBSEL_L = 0x22a
+                0x000000000000022b                __PBSEL_H = 0x22b
+                0x000000000000022a                __PBSEL = 0x22a
+                0x0000000000000240                __PCIN_L = 0x240
+                0x0000000000000241                __PCIN_H = 0x241
+                0x0000000000000240                __PCIN = 0x240
+                0x0000000000000242                __PCOUT_L = 0x242
+                0x0000000000000243                __PCOUT_H = 0x243
+                0x0000000000000242                __PCOUT = 0x242
+                0x0000000000000244                __PCDIR_L = 0x244
+                0x0000000000000245                __PCDIR_H = 0x245
+                0x0000000000000244                __PCDIR = 0x244
+                0x0000000000000246                __PCREN_L = 0x246
+                0x0000000000000247                __PCREN_H = 0x247
+                0x0000000000000246                __PCREN = 0x246
+                0x0000000000000248                __PCDS_L = 0x248
+                0x0000000000000249                __PCDS_H = 0x249
+                0x0000000000000248                __PCDS = 0x248
+                0x000000000000024a                __PCSEL_L = 0x24a
+                0x000000000000024b                __PCSEL_H = 0x24b
+                0x000000000000024a                __PCSEL = 0x24a
+                0x0000000000000320                __PJIN_L = 0x320
+                0x0000000000000321                __PJIN_H = 0x321
+                0x0000000000000320                __PJIN = 0x320
+                0x0000000000000322                __PJOUT_L = 0x322
+                0x0000000000000323                __PJOUT_H = 0x323
+                0x0000000000000322                __PJOUT = 0x322
+                0x0000000000000324                __PJDIR_L = 0x324
+                0x0000000000000325                __PJDIR_H = 0x325
+                0x0000000000000324                __PJDIR = 0x324
+                0x0000000000000326                __PJREN_L = 0x326
+                0x0000000000000327                __PJREN_H = 0x327
+                0x0000000000000326                __PJREN = 0x326
+                0x0000000000000328                __PJDS_L = 0x328
+                0x0000000000000329                __PJDS_H = 0x329
+                0x0000000000000328                __PJDS = 0x328
+                0x00000000000001c0                __PMAPKEYID_L = 0x1c0
+                0x00000000000001c1                __PMAPKEYID_H = 0x1c1
+                0x00000000000001c0                __PMAPKEYID = 0x1c0
+                0x00000000000001c2                __PMAPCTL_L = 0x1c2
+                0x00000000000001c3                __PMAPCTL_H = 0x1c3
+                0x00000000000001c2                __PMAPCTL = 0x1c2
+                0x00000000000001c8                __P1MAP01_L = 0x1c8
+                0x00000000000001c9                __P1MAP01_H = 0x1c9
+                0x00000000000001c8                __P1MAP01 = 0x1c8
+                0x00000000000001ca                __P1MAP23_L = 0x1ca
+                0x00000000000001cb                __P1MAP23_H = 0x1cb
+                0x00000000000001ca                __P1MAP23 = 0x1ca
+                0x00000000000001cc                __P1MAP45_L = 0x1cc
+                0x00000000000001cd                __P1MAP45_H = 0x1cd
+                0x00000000000001cc                __P1MAP45 = 0x1cc
+                0x00000000000001ce                __P1MAP67_L = 0x1ce
+                0x00000000000001cf                __P1MAP67_H = 0x1cf
+                0x00000000000001ce                __P1MAP67 = 0x1ce
+                0x00000000000001d0                __P2MAP01_L = 0x1d0
+                0x00000000000001d1                __P2MAP01_H = 0x1d1
+                0x00000000000001d0                __P2MAP01 = 0x1d0
+                0x00000000000001d2                __P2MAP23_L = 0x1d2
+                0x00000000000001d3                __P2MAP23_H = 0x1d3
+                0x00000000000001d2                __P2MAP23 = 0x1d2
+                0x00000000000001d4                __P2MAP45_L = 0x1d4
+                0x00000000000001d5                __P2MAP45_H = 0x1d5
+                0x00000000000001d4                __P2MAP45 = 0x1d4
+                0x00000000000001d6                __P2MAP67_L = 0x1d6
+                0x00000000000001d7                __P2MAP67_H = 0x1d7
+                0x00000000000001d6                __P2MAP67 = 0x1d6
+                0x00000000000001d8                __P3MAP01_L = 0x1d8
+                0x00000000000001d9                __P3MAP01_H = 0x1d9
+                0x00000000000001d8                __P3MAP01 = 0x1d8
+                0x00000000000001da                __P3MAP23_L = 0x1da
+                0x00000000000001db                __P3MAP23_H = 0x1db
+                0x00000000000001da                __P3MAP23 = 0x1da
+                0x00000000000001dc                __P3MAP45_L = 0x1dc
+                0x00000000000001dd                __P3MAP45_H = 0x1dd
+                0x00000000000001dc                __P3MAP45 = 0x1dc
+                0x00000000000001de                __P3MAP67_L = 0x1de
+                0x00000000000001df                __P3MAP67_H = 0x1df
+                0x00000000000001de                __P3MAP67 = 0x1de
+                0x0000000000000120                __PMMCTL0_L = 0x120
+                0x0000000000000121                __PMMCTL0_H = 0x121
+                0x0000000000000120                __PMMCTL0 = 0x120
+                0x0000000000000122                __PMMCTL1_L = 0x122
+                0x0000000000000123                __PMMCTL1_H = 0x123
+                0x0000000000000122                __PMMCTL1 = 0x122
+                0x0000000000000124                __SVSMHCTL_L = 0x124
+                0x0000000000000125                __SVSMHCTL_H = 0x125
+                0x0000000000000124                __SVSMHCTL = 0x124
+                0x0000000000000126                __SVSMLCTL_L = 0x126
+                0x0000000000000127                __SVSMLCTL_H = 0x127
+                0x0000000000000126                __SVSMLCTL = 0x126
+                0x0000000000000128                __SVSMIO_L = 0x128
+                0x0000000000000129                __SVSMIO_H = 0x129
+                0x0000000000000128                __SVSMIO = 0x128
+                0x000000000000012c                __PMMIFG_L = 0x12c
+                0x000000000000012d                __PMMIFG_H = 0x12d
+                0x000000000000012c                __PMMIFG = 0x12c
+                0x000000000000012e                __PMMRIE_L = 0x12e
+                0x000000000000012f                __PMMRIE_H = 0x12f
+                0x000000000000012e                __PMMRIE = 0x12e
+                0x0000000000000158                __RCCTL0_L = 0x158
+                0x0000000000000159                __RCCTL0_H = 0x159
+                0x0000000000000158                __RCCTL0 = 0x158
+                0x00000000000001b0                __REFCTL0_L = 0x1b0
+                0x00000000000001b1                __REFCTL0_H = 0x1b1
+                0x00000000000001b0                __REFCTL0 = 0x1b0
+                0x00000000000004a0                __RTCCTL01_L = 0x4a0
+                0x00000000000004a1                __RTCCTL01_H = 0x4a1
+                0x00000000000004a0                __RTCCTL01 = 0x4a0
+                0x00000000000004a2                __RTCCTL23_L = 0x4a2
+                0x00000000000004a3                __RTCCTL23_H = 0x4a3
+                0x00000000000004a2                __RTCCTL23 = 0x4a2
+                0x00000000000004a8                __RTCPS0CTL_L = 0x4a8
+                0x00000000000004a9                __RTCPS0CTL_H = 0x4a9
+                0x00000000000004a8                __RTCPS0CTL = 0x4a8
+                0x00000000000004aa                __RTCPS1CTL_L = 0x4aa
+                0x00000000000004ab                __RTCPS1CTL_H = 0x4ab
+                0x00000000000004aa                __RTCPS1CTL = 0x4aa
+                0x00000000000004ac                __RTCPS_L = 0x4ac
+                0x00000000000004ad                __RTCPS_H = 0x4ad
+                0x00000000000004ac                __RTCPS = 0x4ac
+                0x00000000000004ae                __RTCIV = 0x4ae
+                0x00000000000004b0                __RTCTIM0_L = 0x4b0
+                0x00000000000004b1                __RTCTIM0_H = 0x4b1
+                0x00000000000004b0                __RTCTIM0 = 0x4b0
+                0x00000000000004b2                __RTCTIM1_L = 0x4b2
+                0x00000000000004b3                __RTCTIM1_H = 0x4b3
+                0x00000000000004b2                __RTCTIM1 = 0x4b2
+                0x00000000000004b4                __RTCDATE_L = 0x4b4
+                0x00000000000004b5                __RTCDATE_H = 0x4b5
+                0x00000000000004b4                __RTCDATE = 0x4b4
+                0x00000000000004b6                __RTCYEAR_L = 0x4b6
+                0x00000000000004b7                __RTCYEAR_H = 0x4b7
+                0x00000000000004b6                __RTCYEAR = 0x4b6
+                0x00000000000004b8                __RTCAMINHR_L = 0x4b8
+                0x00000000000004b9                __RTCAMINHR_H = 0x4b9
+                0x00000000000004b8                __RTCAMINHR = 0x4b8
+                0x00000000000004ba                __RTCADOWDAY_L = 0x4ba
+                0x00000000000004bb                __RTCADOWDAY_H = 0x4bb
+                0x00000000000004ba                __RTCADOWDAY = 0x4ba
+                0x0000000000000100                __SFRIE1_L = 0x100
+                0x0000000000000101                __SFRIE1_H = 0x101
+                0x0000000000000100                __SFRIE1 = 0x100
+                0x0000000000000102                __SFRIFG1_L = 0x102
+                0x0000000000000103                __SFRIFG1_H = 0x103
+                0x0000000000000102                __SFRIFG1 = 0x102
+                0x0000000000000104                __SFRRPCR_L = 0x104
+                0x0000000000000105                __SFRRPCR_H = 0x105
+                0x0000000000000104                __SFRRPCR = 0x104
+                0x0000000000000180                __SYSCTL_L = 0x180
+                0x0000000000000181                __SYSCTL_H = 0x181
+                0x0000000000000180                __SYSCTL = 0x180
+                0x0000000000000182                __SYSBSLC_L = 0x182
+                0x0000000000000183                __SYSBSLC_H = 0x183
+                0x0000000000000182                __SYSBSLC = 0x182
+                0x0000000000000186                __SYSJMBC_L = 0x186
+                0x0000000000000187                __SYSJMBC_H = 0x187
+                0x0000000000000186                __SYSJMBC = 0x186
+                0x0000000000000188                __SYSJMBI0_L = 0x188
+                0x0000000000000189                __SYSJMBI0_H = 0x189
+                0x0000000000000188                __SYSJMBI0 = 0x188
+                0x000000000000018a                __SYSJMBI1_L = 0x18a
+                0x000000000000018b                __SYSJMBI1_H = 0x18b
+                0x000000000000018a                __SYSJMBI1 = 0x18a
+                0x000000000000018c                __SYSJMBO0_L = 0x18c
+                0x000000000000018d                __SYSJMBO0_H = 0x18d
+                0x000000000000018c                __SYSJMBO0 = 0x18c
+                0x000000000000018e                __SYSJMBO1_L = 0x18e
+                0x000000000000018f                __SYSJMBO1_H = 0x18f
+                0x000000000000018e                __SYSJMBO1 = 0x18e
+                0x0000000000000198                __SYSBERRIV_L = 0x198
+                0x0000000000000199                __SYSBERRIV_H = 0x199
+                0x0000000000000198                __SYSBERRIV = 0x198
+                0x000000000000019a                __SYSUNIV_L = 0x19a
+                0x000000000000019b                __SYSUNIV_H = 0x19b
+                0x000000000000019a                __SYSUNIV = 0x19a
+                0x000000000000019c                __SYSSNIV_L = 0x19c
+                0x000000000000019d                __SYSSNIV_H = 0x19d
+                0x000000000000019c                __SYSSNIV = 0x19c
+                0x000000000000019e                __SYSRSTIV_L = 0x19e
+                0x000000000000019f                __SYSRSTIV_H = 0x19f
+                0x000000000000019e                __SYSRSTIV = 0x19e
+                0x0000000000000340                __TA0CTL = 0x340
+                0x0000000000000342                __TA0CCTL0 = 0x342
+                0x0000000000000344                __TA0CCTL1 = 0x344
+                0x0000000000000346                __TA0CCTL2 = 0x346
+                0x0000000000000348                __TA0CCTL3 = 0x348
+                0x000000000000034a                __TA0CCTL4 = 0x34a
+                0x0000000000000350                __TA0R = 0x350
+                0x0000000000000352                __TA0CCR0 = 0x352
+                0x0000000000000354                __TA0CCR1 = 0x354
+                0x0000000000000356                __TA0CCR2 = 0x356
+                0x0000000000000358                __TA0CCR3 = 0x358
+                0x000000000000035a                __TA0CCR4 = 0x35a
+                0x000000000000036e                __TA0IV = 0x36e
+                0x0000000000000360                __TA0EX0 = 0x360
+                0x0000000000000380                __TA1CTL = 0x380
+                0x0000000000000382                __TA1CCTL0 = 0x382
+                0x0000000000000384                __TA1CCTL1 = 0x384
+                0x0000000000000386                __TA1CCTL2 = 0x386
+                0x0000000000000390                __TA1R = 0x390
+                0x0000000000000392                __TA1CCR0 = 0x392
+                0x0000000000000394                __TA1CCR1 = 0x394
+                0x0000000000000396                __TA1CCR2 = 0x396
+                0x00000000000003ae                __TA1IV = 0x3ae
+                0x00000000000003a0                __TA1EX0 = 0x3a0
+                0x0000000000000160                __UCSCTL0_L = 0x160
+                0x0000000000000161                __UCSCTL0_H = 0x161
+                0x0000000000000160                __UCSCTL0 = 0x160
+                0x0000000000000162                __UCSCTL1_L = 0x162
+                0x0000000000000163                __UCSCTL1_H = 0x163
+                0x0000000000000162                __UCSCTL1 = 0x162
+                0x0000000000000164                __UCSCTL2_L = 0x164
+                0x0000000000000165                __UCSCTL2_H = 0x165
+                0x0000000000000164                __UCSCTL2 = 0x164
+                0x0000000000000166                __UCSCTL3_L = 0x166
+                0x0000000000000167                __UCSCTL3_H = 0x167
+                0x0000000000000166                __UCSCTL3 = 0x166
+                0x0000000000000168                __UCSCTL4_L = 0x168
+                0x0000000000000169                __UCSCTL4_H = 0x169
+                0x0000000000000168                __UCSCTL4 = 0x168
+                0x000000000000016a                __UCSCTL5_L = 0x16a
+                0x000000000000016b                __UCSCTL5_H = 0x16b
+                0x000000000000016a                __UCSCTL5 = 0x16a
+                0x000000000000016c                __UCSCTL6_L = 0x16c
+                0x000000000000016d                __UCSCTL6_H = 0x16d
+                0x000000000000016c                __UCSCTL6 = 0x16c
+                0x000000000000016e                __UCSCTL7_L = 0x16e
+                0x000000000000016f                __UCSCTL7_H = 0x16f
+                0x000000000000016e                __UCSCTL7 = 0x16e
+                0x0000000000000170                __UCSCTL8_L = 0x170
+                0x0000000000000171                __UCSCTL8_H = 0x171
+                0x0000000000000170                __UCSCTL8 = 0x170
+                0x00000000000005c0                __UCA0CTLW0_L = 0x5c0
+                0x00000000000005c1                __UCA0CTLW0_H = 0x5c1
+                0x00000000000005c0                __UCA0CTLW0 = 0x5c0
+                0x00000000000005c6                __UCA0BRW_L = 0x5c6
+                0x00000000000005c7                __UCA0BRW_H = 0x5c7
+                0x00000000000005c6                __UCA0BRW = 0x5c6
+                0x00000000000005c8                __UCA0MCTL = 0x5c8
+                0x00000000000005ca                __UCA0STAT = 0x5ca
+                0x00000000000005cc                __UCA0RXBUF = 0x5cc
+                0x00000000000005ce                __UCA0TXBUF = 0x5ce
+                0x00000000000005d0                __UCA0ABCTL = 0x5d0
+                0x00000000000005d2                __UCA0IRCTL_L = 0x5d2
+                0x00000000000005d3                __UCA0IRCTL_H = 0x5d3
+                0x00000000000005d2                __UCA0IRCTL = 0x5d2
+                0x00000000000005dc                __UCA0ICTL_L = 0x5dc
+                0x00000000000005dd                __UCA0ICTL_H = 0x5dd
+                0x00000000000005dc                __UCA0ICTL = 0x5dc
+                0x00000000000005de                __UCA0IV = 0x5de
+                0x00000000000005e0                __UCB0CTLW0_L = 0x5e0
+                0x00000000000005e1                __UCB0CTLW0_H = 0x5e1
+                0x00000000000005e0                __UCB0CTLW0 = 0x5e0
+                0x00000000000005e6                __UCB0BRW_L = 0x5e6
+                0x00000000000005e7                __UCB0BRW_H = 0x5e7
+                0x00000000000005e6                __UCB0BRW = 0x5e6
+                0x00000000000005ea                __UCB0STAT = 0x5ea
+                0x00000000000005ec                __UCB0RXBUF = 0x5ec
+                0x00000000000005ee                __UCB0TXBUF = 0x5ee
+                0x00000000000005f0                __UCB0I2COA_L = 0x5f0
+                0x00000000000005f1                __UCB0I2COA_H = 0x5f1
+                0x00000000000005f0                __UCB0I2COA = 0x5f0
+                0x00000000000005f2                __UCB0I2CSA_L = 0x5f2
+                0x00000000000005f3                __UCB0I2CSA_H = 0x5f3
+                0x00000000000005f2                __UCB0I2CSA = 0x5f2
+                0x00000000000005fc                __UCB0ICTL_L = 0x5fc
+                0x00000000000005fd                __UCB0ICTL_H = 0x5fd
+                0x00000000000005fc                __UCB0ICTL = 0x5fc
+                0x00000000000005fe                __UCB0IV = 0x5fe
+                0x000000000000015c                __WDTCTL_L = 0x15c
+                0x000000000000015d                __WDTCTL_H = 0x15d
+                0x000000000000015c                __WDTCTL = 0x15c
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000008000     0x633e
+                0x0000000000008000                . = ALIGN (0x2)
+ *(.init .init.*)
+ *(.init0)
+ .init0         0x0000000000008000        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o)
+                0x0000000000008000                _reset_vector__
+ *(.init1)
+ .init1         0x0000000000008000        0xc /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+                0x0000000000008000                __watchdog_support
+ *(.init2)
+ .init2         0x000000000000800c        0x4 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+                0x000000000000800c                __init_stack
+ *(.init3)
+ .init3         0x0000000000008010        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__low_level_init.o)
+                0x0000000000008010                __low_level_init
+ *(.init4)
+ .init4         0x0000000000008010       0x18 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+                0x0000000000008010                __do_copy_data
+ .init4         0x0000000000008028       0x16 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+                0x0000000000008028                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000803e       0x3e ezchronos.o
+                0x000000000000803e                main
+ *(.fini9)
+ .fini9         0x000000000000807c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__stop_progExec__.o)
+                0x000000000000807c                __stop_progExec__
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000807c        0x6 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+                0x000000000000807c                _endless_loop__
+ *(.fini .fini.*)
+                0x0000000000008082                . = ALIGN (0x2)
+                0x0000000000008082                __ctors_start = .
+ *(.ctors)
+                0x0000000000008082                __ctors_end = .
+                0x0000000000008082                __dtors_start = .
+ *(.dtors)
+                0x0000000000008082                __dtors_end = .
+                0x0000000000008082                . = ALIGN (0x2)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000008082        0x4 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+                0x0000000000008082                __isr_37
+                0x0000000000008082                __isr_47
+                0x0000000000008082                __isr_51
+                0x0000000000008082                __isr_14
+                0x0000000000008082                __isr_57
+                0x0000000000008082                __isr_24
+                0x0000000000008082                __isr_4
+                0x0000000000008082                __isr_33
+                0x0000000000008082                __isr_19
+                0x0000000000008082                __isr_29
+                0x0000000000008082                __isr_23
+                0x0000000000008082                __isr_32
+                0x0000000000008082                __isr_11
+                0x0000000000008082                __isr_42
+                0x0000000000008082                __isr_49
+                0x0000000000008082                __isr_16
+                0x0000000000008082                __isr_59
+                0x0000000000008082                __isr_39
+                0x0000000000008082                __isr_26
+                0x0000000000008082                __isr_5
+                0x0000000000008082                __isr_46
+                0x0000000000008082                __isr_2
+                0x0000000000008082                __isr_10
+                0x0000000000008082                __isr_41
+                0x0000000000008082                __isr_7
+                0x0000000000008082                __isr_60
+                0x0000000000008082                __isr_25
+                0x0000000000008082                __isr_36
+                0x0000000000008082                __isr_34
+                0x0000000000008082                __isr_0
+                0x0000000000008082                __isr_44
+                0x0000000000008082                __isr_28
+                0x0000000000008082                __isr_8
+                0x0000000000008082                __isr_20
+                0x0000000000008082                __isr_61
+                0x0000000000008082                __isr_3
+                0x0000000000008082                __isr_18
+                0x0000000000008082                __isr_12
+                0x0000000000008082                __isr_43
+                0x0000000000008082                __isr_50
+                0x0000000000008082                __isr_13
+                0x0000000000008082                __isr_27
+                0x0000000000008082                __isr_38
+                0x0000000000008082                __isr_9
+                0x0000000000008082                __isr_35
+                0x0000000000008082                __isr_30
+                0x0000000000008082                __isr_6
+                0x0000000000008082                __isr_22
+                0x0000000000008082                __isr_1
+                0x0000000000008082                __isr_31
+                0x0000000000008082                __isr_45
+                0x0000000000008082                __isr_15
+                0x0000000000008082                __isr_58
+                0x0000000000008082                __isr_17
+                0x0000000000008082                __isr_21
+                0x0000000000008082                __isr_62
+                0x0000000000008082                __isr_52
+                0x0000000000008082                __isr_40
+ .text.crt0     0x0000000000008086        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+ .text          0x0000000000008086      0x212 logic/acceleration.o
+                0x0000000000008086                reset_acceleration
+                0x0000000000008098                sx_acceleration
+                0x00000000000080ba                acceleration_value_is_positive
+                0x00000000000080c8                convert_acceleration_value_to_mgrav
+                0x0000000000008136                is_acceleration_measurement
+                0x000000000000814a                do_acceleration_measurement
+                0x000000000000815a                display_acceleration
+ .text          0x0000000000008298      0x232 logic/alarm.o
+                0x0000000000008298                reset_alarm
+                0x00000000000082bc                check_alarm
+                0x00000000000082d8                stop_alarm
+                0x00000000000082e2                sx_alarm
+                0x000000000000835e                mx_alarm
+                0x000000000000843e                display_alarm
+ .text          0x00000000000084ca      0x380 logic/altitude.o
+                0x00000000000084ca                convert_m_to_ft
+                0x00000000000084f2                convert_ft_to_m
+                0x000000000000851a                is_altitude_measurement
+                0x000000000000852e                stop_altitude_measurement
+                0x000000000000854a                do_altitude_measurement
+                0x00000000000085e4                start_altitude_measurement
+                0x0000000000008628                reset_altitude_measurement
+                0x0000000000008668                sx_altitude
+                0x000000000000866a                mx_altitude
+                0x0000000000008746                display_altitude
+ .text          0x000000000000884a      0x11e logic/battery.o
+                0x000000000000884a                reset_batt_measurement
+                0x0000000000008860                battery_measurement
+                0x00000000000088f8                display_battery_V
+ .text          0x0000000000008968      0x362 logic/clock.o
+                0x0000000000008968                reset_clock
+                0x0000000000008994                clock_tick
+                0x00000000000089ec                mx_time
+                0x0000000000008b74                sx_time
+                0x0000000000008b86                display_time
+ .text          0x0000000000008cca      0x478 logic/date.o
+                0x0000000000008cca                reset_date
+                0x0000000000008ce2                get_numberOfDays
+                0x0000000000008d7e                add_day
+                0x0000000000008dc4                mx_date
+                0x0000000000008f1c                sx_date
+                0x0000000000008f3c                display_date
+ .text          0x0000000000009142       0x64 logic/menu.o
+                0x0000000000009142                update_time
+                0x0000000000009150                update_stopwatch
+                0x000000000000915e                update_date
+                0x000000000000916c                update_alarm
+                0x000000000000917a                update_temperature
+                0x0000000000009188                update_battery_voltage
+                0x0000000000009196                update_acceleration
+                0x00000000000091a4                display_nothing
+ .text          0x00000000000091a6      0x3f2 logic/stopwatch.o
+                0x00000000000091a6                update_stopwatch_timer
+                0x00000000000091ec                reset_stopwatch
+                0x0000000000009216                is_stopwatch_run
+                0x000000000000922e                is_stopwatch_stop
+                0x000000000000924a                start_stopwatch
+                0x0000000000009280                display_stopwatch
+                0x00000000000093b2                split_stopwatch
+                0x00000000000093e8                stop_stopwatch
+                0x000000000000941c                sx_stopwatch
+                0x000000000000943a                mx_stopwatch
+                0x000000000000946a                stopwatch_tick
+ .text          0x0000000000009598      0x318 logic/temperature.o
+                0x0000000000009598                temperature_measurement
+                0x0000000000009674                reset_temp_measurement
+                0x0000000000009680                convert_C_to_F
+                0x00000000000096b4                convert_F_to_C
+                0x00000000000096e4                is_temp_measurement
+                0x00000000000096f0                mx_temperature
+                0x00000000000097cc                display_temperature
+ .text          0x00000000000098b0        0x0 logic/test.o
+ .text          0x00000000000098b0      0x328 logic/user.o
+                0x00000000000098b0                dummy
+                0x00000000000098b2                set_value
+ .text          0x0000000000009bd8        0x0 logic/phase_clock.o
+ .text          0x0000000000009bd8        0x0 logic/eggtimer.o
+ .text          0x0000000000009bd8        0x0 logic/prout.o
+ .text          0x0000000000009bd8        0x0 logic/vario.o
+ .text          0x0000000000009bd8        0x0 logic/sidereal.o
+ .text          0x0000000000009bd8        0x0 logic/strength.o
+ .text          0x0000000000009bd8        0x0 logic/sequence.o
+ .text          0x0000000000009bd8        0x0 logic/gps.o
+ .text          0x0000000000009bd8        0x0 logic/dst.o
+ .text          0x0000000000009bd8      0x132 swap/bsp/bsp.o
+                0x0000000000009bd8                BSP_EARLY_INIT
+                0x0000000000009c86                BSP_InitBoard
+                0x0000000000009c96                BSP_Delay
+                0x0000000000009ccc                BSP_InitLeds
+                0x0000000000009ce4                BSP_InitButtons
+                0x0000000000009cf2                BSP_InitDrivers
+                0x0000000000009cfc                BSP_Init
+ .text          0x0000000000009d0a      0x852 swap/mrfi/mrfi.o
+                0x0000000000009d6a                MRFI_Receive
+                0x0000000000009d78                MRFI_RandomByte
+                0x0000000000009d9a                MRFI_DelayMs
+                0x0000000000009db2                MRFI_ReplyDelay
+                0x0000000000009e10                MRFI_PostKillSem
+                0x0000000000009e1e                MRFI_GetRadioState
+                0x0000000000009e24                mrfiRadioInterfaceInit
+                0x0000000000009e26                mrfiRadioInterfaceReadReg
+                0x0000000000009e6a                MRFI_Rssi
+                0x0000000000009e8c                mrfiRadioInterfaceWriteReg
+                0x0000000000009ec2                mrfiRadioInterfaceCmdStrobe
+                0x0000000000009f7e                MRFI_RxIdle
+                0x0000000000009fb2                MRFI_RxOn
+                0x0000000000009fd2                MRFI_WakeUp
+                0x0000000000009ff4                MRFI_Sleep
+                0x000000000000a01a                MRFI_DisableRxAddrFilter
+                0x000000000000a02a                MRFI_EnableRxAddrFilter
+                0x000000000000a048                MRFI_SetRxAddrFilter
+                0x000000000000a074                MRFI_SetRFPwr
+                0x000000000000a090                MRFI_SetLogicalChannel
+                0x000000000000a0c0                MRFI_Init
+                0x000000000000a252                mrfiRadioInterfaceWriteTxFifo
+                0x000000000000a288                MRFI_Transmit
+                0x000000000000a370                mrfiRadioInterfaceReadRxFifo
+                0x000000000000a3e4                MRFI_RadioIsr
+ .text          0x000000000000a55c      0x798 swap/swapbrsr.o
+                0x000000000000a55c                display2_swap
+                0x000000000000a83e                swInitBrowser
+                0x000000000000a8c2                display_swap
+                0x000000000000a92c                swSetExternalEndpointCfg
+                0x000000000000a990                swUpdateExternalEndpointVal
+                0x000000000000aa26                sx_rf
+                0x000000000000aad4                swStopSwapRxTx
+                0x000000000000ab12                sx_synchro
+                0x000000000000ab74                display_rf
+                0x000000000000ab88                display_synchro
+                0x000000000000ab9c                swButtonEvent
+ .text          0x000000000000acf4      0x344 swap/swap.o
+                0x000000000000ad7e                getRegister
+                0x000000000000ad92                swStart
+                0x000000000000adaa                swInit
+                0x000000000000ade0                swStop
+                0x000000000000adf8                swTransmitInfo
+                0x000000000000ae40                MRFI_RxCompleteISR
+                0x000000000000af42                swTransmitCmd
+                0x000000000000af7e                swTransmitQry
+                0x000000000000afb4                swQryRegister
+                0x000000000000aff6                swCmdRegister
+ .text          0x000000000000b038       0x10 swap/register.o
+                0x000000000000b038                swSetRegValue
+ .text          0x000000000000b048      0x2a8 swap/regtable.o
+                0x000000000000b0ae                swSendInfoPacket
+ .text          0x000000000000b2f0       0xb0 swap/params.o
+                0x000000000000b2f0                swSetCurrentConfigParams
+                0x000000000000b324                swSetFreqChannel
+                0x000000000000b334                swSetNetworkId
+                0x000000000000b35e                swSetDeviceAddress
+                0x000000000000b36e                swSetDefaultConfigParams
+ .text          0x000000000000b3a0       0x6a swap/periodic.o
+                0x000000000000b3a0                swProcessPeriodicTasks
+                0x000000000000b3e0                sendPeriodicAcc
+ .text          0x000000000000b40a       0xa2 driver/adc12.o
+                0x000000000000b40a                adc12_single_conversion
+                0x000000000000b482                __isr_56
+                0x000000000000b482                ADC12ISR
+ .text          0x000000000000b4ac       0xec driver/buzzer.o
+                0x000000000000b4ac                reset_buzzer
+                0x000000000000b4c0                start_buzzer
+                0x000000000000b504                start_buzzer_steps
+                0x000000000000b50e                stop_buzzer
+                0x000000000000b530                is_buzzer
+                0x000000000000b53c                countdown_buzzer
+                0x000000000000b54e                toggle_buzzer
+ .text          0x000000000000b598      0x39a driver/display.o
+                0x000000000000b598                lcd_init
+                0x000000000000b5c2                write_lcd_mem
+                0x000000000000b622                _itoa
+                0x000000000000b6f2                display_symbol
+                0x000000000000b70e                display_char
+                0x000000000000b784                display_chars
+                0x000000000000b836                display_value1
+                0x000000000000b858                display_hours_12_or_24
+                0x000000000000b86a                switch_seg
+                0x000000000000b874                clear_line
+                0x000000000000b8cc                clear_display
+                0x000000000000b8da                clear_display_all
+                0x000000000000b8f8                start_blink
+                0x000000000000b8fe                stop_blink
+                0x000000000000b906                clear_blink_mem
+                0x000000000000b90c                set_blink_rate
+                0x000000000000b920                display_all_off
+ .text          0x000000000000b932        0x0 driver/display1.o
+ .text          0x000000000000b932       0x9a driver/pmm.o
+                0x000000000000b932                SetVCoreUp
+                0x000000000000b978                SetVCoreDown
+                0x000000000000b9a0                SetVCore
+ .text          0x000000000000b9cc      0x290 driver/ports.o
+                0x000000000000b9cc                button_repeat_function
+                0x000000000000ba2e                init_buttons
+                0x000000000000ba54                PORT2_ISR
+                0x000000000000ba54                __isr_48
+                0x000000000000bc12                button_repeat_on
+                0x000000000000bc50                button_repeat_off
+ .text          0x000000000000bc5c       0x84 driver/radio.o
+                0x000000000000bc5c                radio_reset
+                0x000000000000bc8e                radio_powerdown
+                0x000000000000bca0                radio_sxoff
+                0x000000000000bcb2                open_radio
+                0x000000000000bcc4                close_radio
+                0x000000000000bcd6                radio_ISR
+                0x000000000000bcd6                __isr_53
+ .text          0x000000000000bce0      0x1ee driver/rf1a.o
+                0x000000000000bce0                ReadSingleReg
+                0x000000000000bcf6                WriteSingleReg
+                0x000000000000bd2e                Strobe
+                0x000000000000bdc2                ResetRadioCore
+                0x000000000000bdd4                ReadBurstReg
+                0x000000000000be20                WriteBurstReg
+                0x000000000000be64                WritePATable
+ .text          0x000000000000bece      0x3f0 driver/timer.o
+                0x000000000000bece                Timer0_Init
+                0x000000000000bee2                Timer0_Start
+                0x000000000000beea                Timer0_Stop
+                0x000000000000bef6                Timer0_A1_Start
+                0x000000000000bf12                Timer0_A1_Stop
+                0x000000000000bf1a                Timer0_A3_Start
+                0x000000000000bf36                Timer0_A3_Stop
+                0x000000000000bf3e                Timer0_A4_Delay
+                0x000000000000bf90                TIMER0_A0_ISR
+                0x000000000000bf90                __isr_55
+                0x000000000000c248                __isr_54
+                0x000000000000c248                TIMER0_A1_5_ISR
+ .text          0x000000000000c2be      0x234 driver/vti_as.o
+                0x000000000000c2be                as_init
+                0x000000000000c2f0                as_stop
+                0x000000000000c326                as_read_register
+                0x000000000000c394                as_write_register
+                0x000000000000c404                as_start
+                0x000000000000c488                as_get_data
+                0x000000000000c4b8                as_get_x
+                0x000000000000c4cc                as_get_y
+                0x000000000000c4e0                as_get_z
+ .text          0x000000000000c4f2      0x920 driver/vti_ps.o
+                0x000000000000c4f2                twi_delay
+                0x000000000000c4f6                ps_twi_sda
+                0x000000000000c5a2                ps_twi_write
+                0x000000000000c5f6                ps_twi_read
+                0x000000000000c65e                ps_write_register
+                0x000000000000c6c2                ps_stop
+                0x000000000000c6ce                ps_start
+                0x000000000000c6dc                ps_read_register
+                0x000000000000c75a                ps_init
+                0x000000000000c7d6                ps_get_pa
+                0x000000000000c856                ps_get_temp
+                0x000000000000c8b0                init_pressure_table
+                0x000000000000c8d8                update_pressure_table
+                0x000000000000cb30                conv_pa_to_meter
+ .text          0x000000000000ce12       0x48 driver/dsp.o
+                0x000000000000ce12                mult_scale16
+                0x000000000000ce32                mult_scale15
+ .text          0x000000000000ce5a        0x0 driver/infomem.o
+ .text          0x000000000000ce5a      0x574 ezchronos.o
+                0x000000000000ce5a                init_application
+                0x000000000000cf24                wakeup_event
+                0x000000000000d032                process_requests
+                0x000000000000d07e                display_update
+                0x000000000000d20c                to_lpm
+                0x000000000000d214                idle_loop
+                0x000000000000d22a                read_calibration_values
+                0x000000000000d2b0                init_global_variables
+                0x000000000000d324                menu_skip_next
+                0x000000000000d38c                ezGoToFirstMenuItem
+                0x000000000000d3ba                ezSetDisplayFunct
+ .text          0x000000000000d3ce        0xc even_in_range.o
+                0x000000000000d3ce                __even_in_range
+ .text          0x000000000000d3da        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .text.libgcc   0x000000000000d3da       0x38 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+                0x000000000000d3da                __udivsi3
+                0x000000000000d3da                __ext_udivmod32
+                0x000000000000d408                __umodsi3
+ .text          0x000000000000d412        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .text.libgcc   0x000000000000d412       0x4c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+                0x000000000000d412                __ext_divmod32
+                0x000000000000d412                __divsi3
+                0x000000000000d454                __modsi3
+ .text          0x000000000000d45e       0x3c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+                0x000000000000d45e                __fixunssfsi
+ .text          0x000000000000d49a      0x318 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+                0x000000000000d716                __addsf3
+                0x000000000000d762                __subsf3
+ .text          0x000000000000d7b2      0x21e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+                0x000000000000d7b2                __mulsf3
+ .text          0x000000000000d9d0      0x14a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+                0x000000000000d9d0                __divsf3
+ .text          0x000000000000db1a       0x50 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+                0x000000000000db1a                __gtsf2
+ .text          0x000000000000db6a       0x50 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+                0x000000000000db6a                __gesf2
+ .text          0x000000000000dbba       0x50 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+                0x000000000000dbba                __ltsf2
+ .text          0x000000000000dc0a       0xa2 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+                0x000000000000dc0a                __floatsisf
+ .text          0x000000000000dcac       0x90 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+                0x000000000000dcac                __fixsfsi
+ .text          0x000000000000dd3c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .text          0x000000000000dd3c       0xe0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+                0x000000000000dd3c                __floatunsisf
+ .text          0x000000000000de1c       0x6a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+                0x000000000000de1c                __clzsi2
+ .text          0x000000000000de86      0x1c6 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+                0x000000000000de86                __pack_f
+ .text          0x000000000000e04c      0x10c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+                0x000000000000e04c                __unpack_f
+ .text          0x000000000000e158       0xa4 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+                0x000000000000e158                __fpcmp_parts_f
+ .text          0x000000000000e1fc        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .text          0x000000000000e1fc       0xe4 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+                0x000000000000e1fc                memcpy
+ .text          0x000000000000e2e0       0x5c /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+                0x000000000000e2e0                memset
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__low_level_init.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .text          0x000000000000e33c        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+ .text.crt0     0x000000000000e33c        0x2 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+                0x000000000000e33c                _unexpected_
+                0x000000000000e33e                . = ALIGN (0x2)
+
+.rodata         0x000000000000e33e      0x582
+                0x000000000000e33e                . = ALIGN (0x2)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000000e33e       0x12 logic/acceleration.o
+                0x000000000000e342                mgrav_per_bit
+ .rodata        0x000000000000e350        0x4 logic/altitude.o
+ .rodata        0x000000000000e354       0x2e logic/date.o
+ .rodata        0x000000000000e382       0x7c logic/menu.o
+                0x000000000000e382                menu_L2_size
+                0x000000000000e384                menu_L1_size
+                0x000000000000e386                menu_L2_Synchro
+                0x000000000000e390                menu_L2_SWAP
+                0x000000000000e39a                menu_L1_SWAP
+                0x000000000000e3a4                menu_L2_Rf
+                0x000000000000e3ae                menu_L2_Battery
+                0x000000000000e3b8                menu_L2_Stopwatch
+                0x000000000000e3c2                menu_L2_Date
+                0x000000000000e3cc                menu_L1_Acceleration
+                0x000000000000e3d6                menu_L1_Altitude
+                0x000000000000e3e0                menu_L1_Temperature
+                0x000000000000e3ea                menu_L1_Alarm
+                0x000000000000e3f4                menu_L1_Time
+ .rodata        0x000000000000e3fe       0x26 logic/stopwatch.o
+ .rodata        0x000000000000e424       0x4b swap/mrfi/mrfi.o
+                0x000000000000e424                mrfiRadioCfg
+                0x000000000000e464                mrfiBroadcastAddr
+ .rodata        0x000000000000e46f       0x22 swap/swapbrsr.o
+ .rodata        0x000000000000e491        0x1 swap/regtable.o
+                0x000000000000e491                regTableSize
+ .rodata        0x000000000000e492       0x44 driver/display.o
+ .rodata        0x000000000000e4d6      0x274 driver/display1.o
+                0x000000000000e4d6                itoa_conversion_table
+                0x000000000000e6f5                segments_bitmask
+                0x000000000000e71f                lcd_font
+ .rodata        0x000000000000e74a        0x5 driver/timer.o
+ *fill*         0x000000000000e74f        0x1 00
+ .rodata        0x000000000000e750       0x44 driver/vti_ps.o
+                0x000000000000e750                p0
+                0x000000000000e772                h0
+ .rodata        0x000000000000e794       0x23 ezchronos.o
+ *fill*         0x000000000000e7b7        0x1 00
+ .rodata        0x000000000000e7b8        0x8 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+                0x000000000000e7b8                __thenan_sf
+ .rodata        0x000000000000e7c0      0x100 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+                0x000000000000e7c0                __clz_tab
+                0x000000000000e8c0                . = ALIGN (0x2)
+                0x000000000000e8c0                _etext = .
+
+.data           0x0000000000001c00      0x1f8 load address 0x000000000000e8c0
+                0x0000000000001c00                . = ALIGN (0x2)
+                0x0000000000001c00                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000001c00        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+ .data          0x0000000000001c00        0x0 logic/acceleration.o
+ .data          0x0000000000001c00        0x0 logic/alarm.o
+ .data          0x0000000000001c00        0x0 logic/altitude.o
+ .data          0x0000000000001c00        0x0 logic/battery.o
+ .data          0x0000000000001c00        0x0 logic/clock.o
+ .data          0x0000000000001c00       0x15 logic/date.o
+ *fill*         0x0000000000001c15        0x1 00
+ .data          0x0000000000001c16       0x16 logic/menu.o
+                0x0000000000001c16                menu_L2
+                0x0000000000001c20                menu_L1
+ .data          0x0000000000001c2c        0x0 logic/stopwatch.o
+ .data          0x0000000000001c2c        0x0 logic/temperature.o
+ .data          0x0000000000001c2c        0x0 logic/test.o
+ .data          0x0000000000001c2c        0x0 logic/user.o
+ .data          0x0000000000001c2c        0x0 logic/phase_clock.o
+ .data          0x0000000000001c2c        0x0 logic/eggtimer.o
+ .data          0x0000000000001c2c        0x0 logic/prout.o
+ .data          0x0000000000001c2c        0x0 logic/vario.o
+ .data          0x0000000000001c2c        0x0 logic/sidereal.o
+ .data          0x0000000000001c2c        0x0 logic/strength.o
+ .data          0x0000000000001c2c        0x0 logic/sequence.o
+ .data          0x0000000000001c2c        0x0 logic/gps.o
+ .data          0x0000000000001c2c        0x0 logic/dst.o
+ .data          0x0000000000001c2c        0x0 swap/bsp/bsp.o
+ .data          0x0000000000001c2c        0x5 swap/mrfi/mrfi.o
+                0x0000000000001c2c                method
+ .data          0x0000000000001c31        0x1 swap/swapbrsr.o
+                0x0000000000001c31                nbOfPages
+ .data          0x0000000000001c32        0x1 swap/swap.o
+ .data          0x0000000000001c33        0x0 swap/register.o
+ *fill*         0x0000000000001c33        0x1 00
+ .data          0x0000000000001c34      0x16e swap/regtable.o
+                0x0000000000001c34                regTable
+                0x0000000000001c5e                regCfgExternEndpoint4
+                0x0000000000001c66                regCfgExternEndpoint3
+                0x0000000000001c6e                regCfgExternEndpoint2
+                0x0000000000001c76                regCfgExternEndpoint1
+                0x0000000000001c7e                regCfgExternEndpoint0
+                0x0000000000001c86                regAccelerometer
+                0x0000000000001c8e                regTempPressAlti
+                0x0000000000001c96                regTimeAlarm
+                0x0000000000001c9e                regDateTime
+                0x0000000000001ca6                regPeriod
+                0x0000000000001cae                regCalibration
+                0x0000000000001cb6                regDevAddress
+                0x0000000000001cbe                regNetworkId
+                0x0000000000001cc6                regSecuNonce
+                0x0000000000001cce                regSecuPasswd
+                0x0000000000001cd6                regSecuOption
+                0x0000000000001cde                regFreqChannel
+                0x0000000000001ce6                regSysState
+                0x0000000000001cee                regFwVersion
+                0x0000000000001cf6                regHwVersion
+                0x0000000000001cfe                regProductCode
+ .data          0x0000000000001da2        0x0 swap/params.o
+ .data          0x0000000000001da2        0x0 swap/periodic.o
+ .data          0x0000000000001da2        0x0 driver/adc12.o
+ .data          0x0000000000001da2        0x0 driver/buzzer.o
+ .data          0x0000000000001da2        0x0 driver/display.o
+ .data          0x0000000000001da2       0x54 driver/display1.o
+                0x0000000000001da2                segments_lcdmem
+ .data          0x0000000000001df6        0x0 driver/pmm.o
+ .data          0x0000000000001df6        0x1 driver/ports.o
+ .data          0x0000000000001df7        0x0 driver/radio.o
+ .data          0x0000000000001df7        0x0 driver/rf1a.o
+ .data          0x0000000000001df7        0x0 driver/timer.o
+ .data          0x0000000000001df7        0x0 driver/vti_as.o
+ .data          0x0000000000001df7        0x0 driver/vti_ps.o
+ .data          0x0000000000001df7        0x0 driver/dsp.o
+ .data          0x0000000000001df7        0x0 driver/infomem.o
+ .data          0x0000000000001df7        0x0 ezchronos.o
+ .data          0x0000000000001df7        0x0 even_in_range.o
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__low_level_init.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .data          0x0000000000001df7        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+                0x0000000000001df8                . = ALIGN (0x2)
+ *fill*         0x0000000000001df7        0x1 00
+                0x0000000000001df8                _edata = .
+                0x000000000000e8c0                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x00000000000001f8                PROVIDE (__data_size, SIZEOF (.data))
+
+.bss            0x0000000000001df8      0x1c0 load address 0x000000000000eab8
+                0x0000000000001df8                PROVIDE (__bss_start, .)
+ *(.bss .bss.*)
+ .bss           0x0000000000001df8        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+ .bss           0x0000000000001df8        0x0 logic/acceleration.o
+ .bss           0x0000000000001df8        0x0 logic/alarm.o
+ .bss           0x0000000000001df8        0x0 logic/altitude.o
+ .bss           0x0000000000001df8        0x0 logic/battery.o
+ .bss           0x0000000000001df8        0x0 logic/clock.o
+ .bss           0x0000000000001df8        0x0 logic/date.o
+ .bss           0x0000000000001df8        0x8 logic/menu.o
+                0x0000000000001df8                menu_L2_position
+                0x0000000000001dfa                menu_L1_position
+                0x0000000000001dfc                ptrMenu_L2
+                0x0000000000001dfe                ptrMenu_L1
+ .bss           0x0000000000001e00        0x1 logic/stopwatch.o
+ .bss           0x0000000000001e01        0x0 logic/temperature.o
+ .bss           0x0000000000001e01        0x0 logic/test.o
+ .bss           0x0000000000001e01        0x0 logic/user.o
+ .bss           0x0000000000001e01        0x0 logic/phase_clock.o
+ .bss           0x0000000000001e01        0x0 logic/eggtimer.o
+ .bss           0x0000000000001e01        0x0 logic/prout.o
+ .bss           0x0000000000001e01        0x0 logic/vario.o
+ .bss           0x0000000000001e01        0x0 logic/sidereal.o
+ .bss           0x0000000000001e01        0x0 logic/strength.o
+ .bss           0x0000000000001e01        0x0 logic/sequence.o
+ .bss           0x0000000000001e01        0x0 logic/gps.o
+ .bss           0x0000000000001e01        0x0 logic/dst.o
+ .bss           0x0000000000001e01        0x0 swap/bsp/bsp.o
+ *fill*         0x0000000000001e01        0x1 00
+ .bss           0x0000000000001e02       0x36 swap/mrfi/mrfi.o
+ .bss           0x0000000000001e38       0x48 swap/swapbrsr.o
+                0x0000000000001e38                pageNumber
+ .bss           0x0000000000001e80       0x40 swap/swap.o
+ .bss           0x0000000000001ec0        0x0 swap/register.o
+ .bss           0x0000000000001ec0       0x18 swap/regtable.o
+ .bss           0x0000000000001ed8        0x0 swap/params.o
+ .bss           0x0000000000001ed8        0x4 swap/periodic.o
+                0x0000000000001ed8                transmitACCdata
+ .bss           0x0000000000001edc        0x0 driver/adc12.o
+ .bss           0x0000000000001edc        0x0 driver/buzzer.o
+ .bss           0x0000000000001edc        0x0 driver/display.o
+ .bss           0x0000000000001edc        0x0 driver/display1.o
+ .bss           0x0000000000001edc        0x0 driver/pmm.o
+ .bss           0x0000000000001edc        0x0 driver/ports.o
+ .bss           0x0000000000001edc        0x0 driver/radio.o
+ .bss           0x0000000000001edc        0x0 driver/rf1a.o
+ .bss           0x0000000000001edc        0x2 driver/timer.o
+ .bss           0x0000000000001ede        0x0 driver/vti_as.o
+ .bss           0x0000000000001ede        0x0 driver/vti_ps.o
+ .bss           0x0000000000001ede        0x0 driver/dsp.o
+ .bss           0x0000000000001ede        0x0 driver/infomem.o
+ .bss           0x0000000000001ede        0x0 ezchronos.o
+ .bss           0x0000000000001ede        0x0 even_in_range.o
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__low_level_init.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .bss           0x0000000000001ede        0x0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+ *(COMMON)
+ COMMON         0x0000000000001ede        0xa logic/acceleration.o
+                0x0000000000001ede                sAccel
+ COMMON         0x0000000000001ee8        0x6 logic/alarm.o
+                0x0000000000001ee8                sAlarm
+ COMMON         0x0000000000001eee        0xe logic/altitude.o
+                0x0000000000001eee                sAlt
+ COMMON         0x0000000000001efc        0x8 logic/battery.o
+                0x0000000000001efc                sBatt
+ COMMON         0x0000000000001f04        0xe logic/clock.o
+                0x0000000000001f04                sTime
+ COMMON         0x0000000000001f12        0x6 logic/date.o
+                0x0000000000001f12                sDate
+ COMMON         0x0000000000001f18        0x2 logic/menu.o
+                0x0000000000001f18                swBrowserFlag
+ COMMON         0x0000000000001f1a       0x16 logic/stopwatch.o
+                0x0000000000001f1a                sStopwatch
+ COMMON         0x0000000000001f30        0x6 logic/temperature.o
+                0x0000000000001f30                sTemp
+ COMMON         0x0000000000001f36        0x9 swap/swapbrsr.o
+                0x0000000000001f36                dtPasswd
+                0x0000000000001f37                swSecuNonce
+                0x0000000000001f38                swNetworkId
+                0x0000000000001f3a                swTxPeriod
+                0x0000000000001f3b                swSecuOption
+                0x0000000000001f3c                swSystemState
+                0x0000000000001f3d                swDeviceAddress
+                0x0000000000001f3e                swFreqChannel
+ *fill*         0x0000000000001f3f        0x1 00
+ COMMON         0x0000000000001f40        0x4 driver/adc12.o
+                0x0000000000001f40                adc12_data_ready
+                0x0000000000001f42                adc12_result
+ COMMON         0x0000000000001f44        0x8 driver/buzzer.o
+                0x0000000000001f44                sBuzzer
+ COMMON         0x0000000000001f4c        0xa driver/display.o
+                0x0000000000001f4c                itoa_str
+                0x0000000000001f54                display
+ COMMON         0x0000000000001f56        0x8 driver/ports.o
+                0x0000000000001f56                button
+                0x0000000000001f58                sButton
+ COMMON         0x0000000000001f5e        0x6 driver/timer.o
+                0x0000000000001f5e                fptr_Timer0_A3_function
+                0x0000000000001f60                sTimer
+ COMMON         0x0000000000001f64        0x1 driver/vti_as.o
+                0x0000000000001f64                as_ok
+ *fill*         0x0000000000001f65        0x1 00
+ COMMON         0x0000000000001f66       0x45 driver/vti_ps.o
+                0x0000000000001f66                p
+                0x0000000000001faa                ps_ok
+ *fill*         0x0000000000001fab        0x1 00
+ COMMON         0x0000000000001fac        0xc ezchronos.o
+                0x0000000000001fac                fptr_lcd_function_line2
+                0x0000000000001fae                sys
+                0x0000000000001fb0                rf_frequoffset
+                0x0000000000001fb2                message
+                0x0000000000001fb4                request
+                0x0000000000001fb6                fptr_lcd_function_line1
+                0x0000000000001fb8                . = ALIGN (0x2)
+                0x0000000000001fb8                PROVIDE (__bss_end, .)
+                0x00000000000001c0                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x0000000000001fb8        0x2 load address 0x000000000000eab8
+                0x0000000000001fb8                PROVIDE (__noinit_start, .)
+ *(.noinit .noinit.*)
+ .noinit.crt0   0x0000000000001fb8        0x2 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+                0x0000000000001fb8                __wdt_clear_value
+                0x0000000000001fba                . = ALIGN (0x2)
+                0x0000000000001fba                PROVIDE (__noinit_end, .)
+                0x0000000000001fba                . = ALIGN (0x2)
+                0x0000000000001fba                _end = .
+
+.infomem        0x0000000000001800        0x0
+ *(.infomem)
+                0x0000000000001800                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x0000000000001800        0x0
+ *(.infomemnobits)
+                0x0000000000001800                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.infoa
+ *(.infoa .infoa.*)
+
+.infob
+ *(.infob .infob.*)
+
+.infoc
+ *(.infoc .infoc.*)
+
+.infod
+ *(.infod .infod.*)
+
+.vectors        0x000000000000ff80       0x80
+                0x000000000000ff80                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x000000000000ff80       0x80 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/crt0ivtbl64.o
+                0x000000000000ff80                __ivtbl_64
+                0x0000000000010000                _vectors_end = .
+
+.fartext        0x0000000000000000        0x0
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext)
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext.*)
+                0x0000000000000000                _efartext = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_aranges
+                0x0000000000000014       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .debug_aranges
+                0x0000000000000028       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x000000000000003c       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x0000000000000050       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x0000000000000064       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x0000000000000078       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000000000008c       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000000000000a0       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000000000000b4       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000000000000c8       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000000000000dc       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000000000000f0       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000104       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x0000000000000118       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000000000000012c       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_aranges
+                0x0000000000000140       0x14 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_aranges
+                0x0000000000000154       0x14 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .debug_aranges
+                0x0000000000000168       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_aranges
+                0x000000000000017c       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_aranges
+                0x0000000000000190       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_aranges
+                0x00000000000001a4       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000001b8       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_aranges
+                0x00000000000001cc       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x2aad
+ *(.debug_info)
+ .debug_info    0x0000000000000000       0xc6 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_info    0x00000000000000c6       0xc6 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .debug_info    0x000000000000018c       0xb5 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_info    0x0000000000000241      0x425 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000000000000666      0x3c9 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_info    0x0000000000000a2f      0x35c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_info    0x0000000000000d8b      0x26e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_info    0x0000000000000ff9      0x26e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_info    0x0000000000001267      0x26e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_info    0x00000000000014d5      0x20b /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_info    0x00000000000016e0      0x289 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000000000001969      0x144 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .debug_info    0x0000000000001aad      0x206 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000000000001cb3      0x109 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000001dbc      0x2b1 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_info    0x000000000000206d      0x23e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_info    0x00000000000022ab      0x1d5 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x0000000000002480       0xa0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .debug_info    0x0000000000002520      0x111 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_info    0x0000000000002631       0xfe /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .debug_info    0x000000000000272f       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_info    0x00000000000027c4       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_info    0x0000000000002859       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_info    0x00000000000028ee       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_info    0x0000000000002983       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_info    0x0000000000002a18       0x95 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000     0x1576
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_abbrev  0x0000000000000014       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .debug_abbrev  0x0000000000000028       0x5d /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000000000000085      0x1ab /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x0000000000000230      0x1d9 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x0000000000000409      0x1c4 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000000000005cd      0x151 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000000000000071e      0x151 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x000000000000086f      0x151 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000000000009c0      0x164 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x0000000000000b24      0x160 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x0000000000000c84       0xba /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x0000000000000d3e      0x17a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x0000000000000eb8       0xac /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000000f64      0x192 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000000000010f6      0x15a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x0000000000001250      0x10b /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x000000000000135b       0x61 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .debug_abbrev  0x00000000000013bc       0xa6 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_abbrev  0x0000000000001462       0x9c /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .debug_abbrev  0x00000000000014fe       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_abbrev  0x0000000000001512       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_abbrev  0x0000000000001526       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_abbrev  0x000000000000153a       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_abbrev  0x000000000000154e       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_abbrev  0x0000000000001562       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_line     0x0000000000000000      0xff3
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x85 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_line    0x0000000000000085       0x8e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_divmod32.o)
+ .debug_line    0x0000000000000113       0x72 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_line    0x0000000000000185      0x121 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000000000002a6      0x11a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_line    0x00000000000003c0       0xdc /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_line    0x000000000000049c       0x92 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_line    0x000000000000052e       0x92 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_line    0x00000000000005c0       0x92 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_line    0x0000000000000652       0xaa /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000000000006fc       0xa0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_line    0x000000000000079c       0x75 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .debug_line    0x0000000000000811       0xa9 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000000000008ba       0x9c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_line    0x0000000000000956       0xe2 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_line    0x0000000000000a38       0xbe /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_line    0x0000000000000af6       0xc9 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000000000000bbf       0x5e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .debug_line    0x0000000000000c1d       0xef /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_line    0x0000000000000d0c       0xce /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+ .debug_line    0x0000000000000dda       0x59 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_line    0x0000000000000e33       0x57 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_line    0x0000000000000e8a       0x5d /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_line    0x0000000000000ee7       0x5d /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_line    0x0000000000000f44       0x58 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_line    0x0000000000000f9c       0x57 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_frame    0x0000000000000000      0x2ae
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x26 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x0000000000000026       0x54 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000000000000007a       0x34 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000000000000ae       0x2e /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_frame   0x00000000000000dc       0x22 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000000000000fe       0x22 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_frame   0x0000000000000120       0x22 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_frame   0x0000000000000142       0x28 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_frame   0x000000000000016a       0x22 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000000000000018c       0x2c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000000000001b8       0x28 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000000000001e0       0x2c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_frame   0x000000000000020c       0x28 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_frame   0x0000000000000234       0x24 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_frame   0x0000000000000258       0x2c /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_frame   0x0000000000000284       0x2a /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+
+.debug_str      0x0000000000000000      0x43a
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x127 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+                                        0x16d (size before relaxing)
+ .debug_str     0x0000000000000127      0x158 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+                                        0x26a (size before relaxing)
+ .debug_str     0x000000000000027f       0x27 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+                                        0x223 (size before relaxing)
+ .debug_str     0x00000000000002a6       0x35 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+                                        0x22c (size before relaxing)
+ .debug_str     0x00000000000002db        0x8 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+                                        0x1f1 (size before relaxing)
+ .debug_str     0x00000000000002e3        0x8 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+                                        0x1f1 (size before relaxing)
+ .debug_str     0x00000000000002eb        0x8 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+                                        0x1f1 (size before relaxing)
+ .debug_str     0x00000000000002f3       0x27 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+                                        0x1e0 (size before relaxing)
+ .debug_str     0x000000000000031a        0xa /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+                                        0x1fa (size before relaxing)
+ .debug_str     0x0000000000000000      0x19c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000000000000324       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+                                        0x1dc (size before relaxing)
+ .debug_str     0x0000000000000338       0x17 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+                                        0x179 (size before relaxing)
+ .debug_str     0x000000000000034f       0x10 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x000000000000035f        0xb /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+                                        0x1db (size before relaxing)
+ .debug_str     0x000000000000036a       0x10 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+                                        0x1bf (size before relaxing)
+ .debug_str     0x0000000000000000      0x15c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clz.o)
+ .debug_str     0x000000000000037a       0x9a /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+                                        0x13b (size before relaxing)
+ .debug_str     0x0000000000000414       0x26 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+                                        0x139 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0xcb6
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x30 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x0000000000000030      0x28b /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00000000000002bb      0x210 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000000000004cb       0xf0 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_loc     0x00000000000005bb       0x3c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_gt_sf.o)
+ .debug_loc     0x00000000000005f7       0x3c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000000000000633       0x3c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_lt_sf.o)
+ .debug_loc     0x000000000000066f       0x9a /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_si_to_sf.o)
+ .debug_loc     0x0000000000000709       0x3c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_sf_to_si.o)
+ .debug_loc     0x0000000000000745       0x66 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000000000007ab       0x70 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+ .debug_loc     0x000000000000081b      0x154 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_pack_sf.o)
+ .debug_loc     0x000000000000096f       0x72 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000000000009e1       0x5b /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_fpcmp_parts_sf.o)
+ .debug_loc     0x0000000000000a3c      0x1b7 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memcpy.o)
+ .debug_loc     0x0000000000000bf3       0xc3 /usr/local/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mcpu-430x/mmpy-16/libc.a(memset.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x90
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x14 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_addsub_sf.o)
+ .debug_ranges  0x0000000000000014       0x38 /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_mul_sf.o)
+ .debug_ranges  0x000000000000004c       0x2c /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_div_sf.o)
+ .debug_ranges  0x0000000000000078        0xc /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_usi_to_sf.o)
+ .debug_ranges  0x0000000000000084        0xc /usr/local/lib/gcc/msp430/4.6.3/mcpu-430x/mmpy-16/libgcc.a(_clzsi2.o)
+                0x0000000000002bfe                PROVIDE (__stack, (ORIGIN (ram) + 0xffe))
+                0x000000000000e8c0                PROVIDE (__data_start_rom, _etext)
+                0x000000000000eab8                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+OUTPUT(build/eZChronos.elf elf32-msp430)
