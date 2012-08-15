@@ -9,14 +9,11 @@ import sys
 import re, sys, random
 from sorteddict import SortedDict
 
-# {0x79, 0x56, 0x34, 0x12}
 def rand_hw():
-    res = []
-    for i in range(4):
-        res.append(random.randint(1, 254))
-    #res.insert(0, random.randint(1, 254))
-    res.sort(reverse=True)
-    return "{" + ",".join([hex(x) for x in res]) + "}"
+    res = 2
+    for i in range(1):
+        res=random.randint(2, 254)
+    return str(res)
 
 DATA = SortedDict()
 
@@ -53,12 +50,12 @@ DATA["FIXEDPOINT"] = {
         "help": "Tries to use fix point aritmetric. If no module is using it, it reduces the code size dramaticly. EXPERIMENTAL",
 }
 
-DATA["THIS_DEVICE_ADDRESS"] = {
-        "name": "Hardware address",
+DATA["SWAP_DEF_DEVADDR"] = {
+        "name": "SWAP address",
         "type": "text",
-        "default": rand_hw(),
+        "default":rand_hw(),
         "ifndef": True,
-        "help": "Default Radio Hardware Address to use on the device",
+        "help": "Default SWAP address to use on the device",
 }
 
 
@@ -100,7 +97,7 @@ DATA["CONFIG_DAY_OF_WEEK"] = {
 DATA["CONFIG_TEST"] = {
         "name": "Test Mode (614 bytes)",
         "depends": [],
-        "default": True,
+        "default": False,
         "help": "Test module to test some functionalities when the clock started",
 }
 
@@ -219,7 +216,7 @@ DATA["CONFIG_DATE"] = {
 DATA["CONFIG_RFBSL"] = {
         "name": "Wireless Update",
         "depends": [],
-        "default": True}
+        "default": False}
 DATA["CONFIG_STOP_WATCH"] = {
         "name": "Stop Watch (1202 bytes)",
         "depends": [],

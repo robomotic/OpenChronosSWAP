@@ -150,14 +150,12 @@ extern u8 alt_accum_enable;	// used by altitude accumulator function
 #endif
 #ifndef CONFIG_SWAP
 extern void start_simpliciti_sync(void);
+
 #endif
 extern u16 ps_read_register(u8 address, u8 mode);
 extern u8 ps_write_register(u8 address, u8 data);
 
-#ifndef CONFIG_SWAP
-// rf hardware address
-static const addr_t   sMyROMAddress = {THIS_DEVICE_ADDRESS};
-#endif
+
 
 // *************************************************************************************************
 // @fn          main

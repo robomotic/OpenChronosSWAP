@@ -47,13 +47,14 @@ void swSetDefaultConfigParams(void)
   swSetDeviceAddress(SWAP_DEF_DEVADDR);
 
   // Initial system state
-  swSystemState = SYSTATE_STOPSWAP;
+  swSystemState = SYSTATE_RXOFF;
 
   // Reset security nonce
   swSecuNonce = 0;
 
   // Default Tx period = 0 -> no periodic transmission
-  swTxPeriod = 0;
+  swTxPeriod[0] = 0;
+  swTxPeriod[1] = 0;
 }
 
 /**
@@ -113,4 +114,6 @@ void swSetDeviceAddress(byte address)
   swDeviceAddress = address;
   mrfiRadioInterfaceWriteReg(ADDR, swDeviceAddress);
 }
+
+
 

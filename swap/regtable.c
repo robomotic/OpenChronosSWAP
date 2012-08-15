@@ -95,16 +95,19 @@ REGISTER regSecuNonce = {REGI_SECUNONCE, &swNonce, NULL, NULL};
 // Network Id
 static SWDATA swNetId = {swNetworkId, sizeof(swNetworkId)};
 REGISTER regNetworkId = {REGI_NETWORKID, &swNetId, NULL, &setNetworkId};
+
 // Device address
 static SWDATA swAddr = {&swDeviceAddress, sizeof(swDeviceAddress)};
 REGISTER regDevAddress = {REGI_DEVADDRESS, &swAddr, NULL, &setDevAddress};
+
+// Tx period
+static SWDATA swPeriod = {&swTxPeriod, sizeof(swTxPeriod)};
+REGISTER regPeriod = {REGI_TXPERIOD, &swPeriod, NULL, &setPeriod};
+
 // Calibration values
 static byte dtCalibration[5];
 static SWDATA swCalibration = {dtCalibration, sizeof(dtCalibration)};
 REGISTER regCalibration = {REGI_CALIBRATION, &swCalibration, NULL, &setCalibration};
-// Calibration values
-static SWDATA swPeriod = {&swTxPeriod, sizeof(swTxPeriod)};
-REGISTER regPeriod = {REGI_TXPERIOD, &swPeriod, NULL, &setPeriod};
 // Date/Time data
 static byte dtDateTime[7];
 static SWDATA swDateTime = {dtDateTime, sizeof(dtDateTime)};
@@ -145,13 +148,14 @@ REGISTER regCfgExternEndpoint4 = {REGI_CFGEXTENDPOINT+4, &swCfgExternEndpoint4, 
  * Add here your custom registers
  */
 
+
 /**
  * Initialize table of registers
  */
 REGISTER *regTable[] = {
         &regProductCode,
         &regHwVersion,
-	      &regFwVersion,
+	    &regFwVersion,
         &regSysState,
         &regFreqChannel,
         &regSecuOption,
@@ -159,8 +163,8 @@ REGISTER *regTable[] = {
         &regSecuNonce,
         &regNetworkId,
         &regDevAddress,
-        &regCalibration,
         &regPeriod,
+        &regCalibration,
         &regDateTime,
         &regTimeAlarm,
         &regTempPressAlti,
@@ -217,7 +221,7 @@ static const void setSysState(byte id, byte *state)
       swStop();
       swInit();
       break;
-    case SYSTATE_STOPSWAP:
+    case SYSTATE_RXOFF:
       // Stop SWAP comms and clear icons
       swStopSwapRxTx();
       break;
@@ -303,6 +307,30 @@ static const void setDevAddress(byte id, byte *addr)
   }
 }
 
+
+/**
+ * setPeriod
+ *
+ * Set transmission period
+ *
+ * 'id'       Register id
+ * 'period'   New interval
+ */
+static const void setPeriod(byte id, byte *period)
+{
+
+	//SWDATA swVal = {period, regTable[id]->value->length};
+	  // Update register value
+	swSetRegValue(&regPeriod, period);
+	swSetTxPeriod(period);
+	// Send info message before taking the new device address
+	//swTransmitInfo(id, &swVal);
+	  // Send info packet
+    swSendInfoPacket(id);
+	  // Send TX period back
+	//swSendInfoPacket(REGI_TXPERIOD);
+}
+
 /**
  * setCalibration
  *
@@ -334,22 +362,6 @@ static const void setCalibration(byte id, byte *calib)
   swSendInfoPacket(id);
 }
 
-/**
- * setPeriod
- *
- * Set transmission period
- *
- * 'id'       Register id
- * 'period'   New interval
- */
-static const void setPeriod(byte id, byte *period)
-{
-  // Update register value
-  swSetRegValue(&regPeriod, period);
-
-  // Send info packet
-  swSendInfoPacket(id);
-}
 
 /**
  * setDateTime

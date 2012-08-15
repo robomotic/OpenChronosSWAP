@@ -29,28 +29,16 @@
 
 #include "swapdefs.h"
 
-/**
- * System states
- * This is the old protocol
 enum SYSTATE
 {
   SYSTATE_RESTART = 0,
-  SYSTATE_RUNNING,
+  SYSTATE_RXON,
+  SYSTATE_RXOFF,
   SYSTATE_SYNC,
-  SYSTATE_STOPSWAP,
+  SYSTATE_LOWBAT,
   SYSTATE_SENDACC
 };
- */
 
-//TODO this is the new protocol SYNC and STOSWAP reverted>!!>
-enum SYSTATE
-{
-  SYSTATE_RESTART = 0,
-  SYSTATE_RUNNING,
-  SYSTATE_STOPSWAP,
-  SYSTATE_SYNC,
-  SYSTATE_SENDACC
-};
 
 /**
  * System state
@@ -88,9 +76,9 @@ byte swSecuOption;
 byte swSecuNonce;
 
 /**
- * Tx period for temperature, altitude and pressure (in minutes)
+ * Tx period for temperature, altitude and pressure (in seconds)
  */
-byte swTxPeriod;
+byte swTxPeriod[2];
 
 /**
  * swSetDefaultConfigParams

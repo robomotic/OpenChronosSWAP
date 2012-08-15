@@ -40,6 +40,11 @@
 extern bool transmitACCdata;
 
 /**
+ * Periodic tranissmion interval in seconds
+ */
+extern int periodicTime;
+
+/**
  * swProcessPeriodicTasks
  * 
  * Process periodic tasks. Function called once per second
@@ -53,4 +58,5 @@ extern void swProcessPeriodicTasks(void);
  */
 extern void sendPeriodicAcc(void);
 
+extern void swSetTxPeriod(byte *interval);
 #endif

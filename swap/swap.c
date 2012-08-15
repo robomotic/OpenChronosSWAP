@@ -117,7 +117,7 @@ void swStart(void)
   MRFI_RxOn();
   
   // New SWAP state = running
-  setChronosState(SYSTATE_RUNNING);
+  setChronosState(SYSTATE_RXON);
 }
 
 /**
@@ -128,7 +128,7 @@ void swStart(void)
 void swStop(void)
 {
   // New SWAP state = SWAP stopped
-  setChronosState(SYSTATE_STOPSWAP);
+  setChronosState(SYSTATE_RXOFF);
 
   // Go to sleep mode
   MRFI_RxIdle();

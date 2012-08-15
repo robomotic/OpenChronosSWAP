@@ -34,6 +34,7 @@
  */
 static int countTransmitSensorData = 0;
 
+int periodicTime=0;
 /**
  * Transmit ACC data
  */
@@ -46,12 +47,12 @@ bool transmitACCdata = false;
  */
 void swProcessPeriodicTasks(void) 
 {
-  if ((getChronosState() == SYSTATE_STOPSWAP) && (swTxPeriod > 0))
+  if ((getChronosState() == SYSTATE_RXOFF) && (periodicTime > 0))
   {
     // Transmit sensor data?
     if (countTransmitSensorData == 0)
     {
-      countTransmitSensorData = swTxPeriod;
+      countTransmitSensorData = periodicTime;
     	swInit();
       regTable[REGI_TEMPPRESSALTI]->updateValue(REGI_TEMPPRESSALTI);
       swStop();
@@ -77,5 +78,17 @@ void sendPeriodicAcc(void)
     setChronosState(SYSTATE_SENDACC);
     request.flag.acceleration_measurement = 1;
   }
+}
+
+/**
+ * swSetTxPeriod
+ *
+ * Set transmission period expressed in seconds
+ *
+ * 'interval'  periodic interval in seconds
+ */
+void swSetTxPeriod(byte *interval)
+{
+	periodicTime=interval[0]* 0x100+interval[1];
 }
 

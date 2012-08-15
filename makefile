@@ -98,7 +98,7 @@ clean:
 	@echo "Removing files..."
 	rm -f $(ALL_O)
 	rm -rf build/*
-
+	rm config.h
 build:
 	mkdir -p build
 

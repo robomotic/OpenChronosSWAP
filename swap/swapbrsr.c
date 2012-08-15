@@ -121,7 +121,7 @@ void swInitBrowser(void)
   swStop();
 
   // Initial SWAP state = SWAP stopped
-  setChronosState(SYSTATE_STOPSWAP);
+  setChronosState(SYSTATE_RXOFF);
 
   swBrowserFlag = SWAP_OFF;
 
@@ -428,7 +428,7 @@ void sx_rf(u8 line)
 
     // Transmit system state
 	  swStart();
-    setChronosState(SYSTATE_STOPSWAP);
+    setChronosState(SYSTATE_RXOFF);
     swSendInfoPacket(REGI_SYSSTATE);
     swStop();
   }
@@ -469,7 +469,7 @@ void sx_synchro(u8 line)
 void swStopSwapRxTx(void)
 {
   // Set new system state
-  setChronosState(SYSTATE_STOPSWAP);
+  setChronosState(SYSTATE_RXOFF);
   // Send info message before stopping SWAP comms
   swSendInfoPacket(REGI_SYSSTATE);
   // Stop SWAP comms

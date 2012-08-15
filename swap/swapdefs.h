@@ -51,7 +51,7 @@
 //#define SWAP_TX_METHOD          MRFI_TX_TYPE_CCA      // Clear channel assessment (collision avoidance) method
 #define SWAP_DEF_CHANNEL        0                     // Default frequency channel
 #define SWAP_DEF_NETID          {0xB5, 0x47}          // Default Network ID
-#define SWAP_DEF_DEVADDR        0x07                  // Default device address
+//#define SWAP_DEF_DEVADDR        0x07                  // Default device address
 #define SWAP_MAX_REG_DATA_LEN   55                    // Max length of the data register field
 #define SWAP_ACC_INTERVAL_MS    500                   // Interval between stream transmissions of Accelerometer data
 #define SWAP_DATA_HEAD_LEN      7
